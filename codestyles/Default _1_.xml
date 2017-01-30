@@ -1,4 +1,7 @@
 <code_scheme name="Default (1)">
+  <JSCodeStyleSettings>
+    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
+  </JSCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
