@@ -1,0 +1,8 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="CollapseBlock" />
+  <action id="CollapseSelection" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="meta period" />
+  </action>
+  <action id="InsertRubyInjection" />
+</keymap>
