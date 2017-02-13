@@ -1,13 +1,22 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="CloseContent" />
   <action id="CollapseBlock" />
   <action id="CollapseSelection" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="enter" />
   </action>
+  <action id="EditorNextWordWithSelection">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="EditorPreviousWordWithSelection">
+    <keyboard-shortcut first-keystroke="meta q" />
+  </action>
+  <action id="Exit" />
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="meta period" />
   </action>
+  <action id="Images.Thumbnails.Hide" />
   <action id="InsertRubyInjection" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
