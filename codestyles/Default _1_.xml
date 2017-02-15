@@ -1,9 +1,13 @@
 <code_scheme name="Default (1)">
+  <option name="AUTODETECT_INDENTS" value="false" />
   <JSCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
     <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
     <option name="OBJECT_LITERAL_WRAP" value="2" />
   </JSCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="JavaScript">
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
