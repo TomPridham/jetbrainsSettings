@@ -1,5 +1,5 @@
 <templateSet group="react">
-  <template name="react" value="import React, {PropTypes} from 'react';&#10;import styles from './$CLASSNAME$.scss'&#10;&#10;class $CLASSNAME$ extends React.Component{&#10;&#10;    render() {&#10;        return (&#10;            &lt;div&gt;&#10;            $END$&#10;            &lt;/div&gt;&#10;        )&#10;    }&#10;};&#10;&#10;$CLASSNAME$.propTypes = {&#10;&#10;};&#10;&#10;export default $CLASSNAME$;" description="react class" toReformat="false" toShortenFQNames="true">
+  <template name="react" value="import React, {PropTypes} from 'react';&#10;import styles from './$CLASSNAME$.scss'&#10;&#10;class $CLASSNAME$ extends React.Component{&#10;&#10;    render() {&#10;        return (&#10;            &lt;div&gt;&#10;            $END$&#10;            &lt;/div&gt;&#10;        )&#10;    }&#10;}&#10;&#10;$CLASSNAME$.propTypes = {&#10;&#10;};&#10;&#10;export default $CLASSNAME$;" description="react class" toReformat="false" toShortenFQNames="true">
     <variable name="CLASSNAME" expression="fileNameWithoutExtension()" defaultValue="ClassName" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
