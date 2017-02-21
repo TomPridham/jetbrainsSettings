@@ -15,7 +15,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="stateless" value="import React, {PropTypes} from 'react';&#10;import styles from './$CLASSNAME$.scss';&#10;&#10;const $CLASSNAME$ = props =&gt; {&#10;&#10;    return(&#10;        &lt;div&gt;&#10;            $END$&#10;        &lt;/div&gt;&#10;    )&#10;};&#10;&#10;$CLASSNAME$.propTypes = {&#10;&#10;};&#10;&#10;export default $CLASSNAME$;" description="stateless react component" toReformat="false" toShortenFQNames="true">
+  <template name="stateless" value="import React, {PropTypes} from 'react';&#10;import styles from './$CLASSNAME$.cssmodule.scss';&#10;&#10;const $CLASSNAME$ = props =&gt; {&#10;&#10;    return(&#10;        &lt;div&gt;&#10;            $END$&#10;        &lt;/div&gt;&#10;    )&#10;};&#10;&#10;$CLASSNAME$.propTypes = {&#10;&#10;};&#10;&#10;export default $CLASSNAME$;" description="stateless react component" toReformat="false" toShortenFQNames="true">
     <variable name="CLASSNAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
