@@ -14,4 +14,7 @@
     <option name="COLLAPSE_JS_IMPORTS" value="false" />
     <option name="COLLAPSE_TS_IMPORTS" value="false" />
   </component>
+  <component name="XmlSettings">
+    <option name="SHOW_XML_ADD_IMPORT_HINTS" value="false" />
+  </component>
 </application>
