@@ -5,4 +5,9 @@
     <variable name="COMPONENT_NAME" expression="capitalize(String)" defaultValue="&quot;ComponentName&quot;" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="ng2-component-root" value="import { Component } from '@angular/core';&#10;&#10;@Component({&#10;    selector: '$SELECTOR$',&#10;    template:  &#10;        `&lt;router-outlet&gt;&lt;/router-outlet&gt;`&#10;})&#10;export class $NAME$Component { }&#10;$END$" description="Angular2 root component" toReformat="false" toShortenFQNames="true">
+    <variable name="SELECTOR" expression="" defaultValue="&quot;selector&quot;" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
