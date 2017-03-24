@@ -1,11 +1,11 @@
 <templateSet group="ng2">
-  <template name="ng2component" value="import {Component} from '@angular/core';&#10;&#10;@Component({&#10;    selector:'$NAME$',&#10;    providers:[],&#10;    styleUrls:['$NAME$.component.scss'],&#10;    templateUrl:'./$NAME$.component.html'&#10;})&#10;&#10;export class $NAME$Component {&#10;    $END$&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="ng2component" value="import {Component} from '@angular/core';&#10;&#10;@Component({&#10;    selector:'$NAME$',&#10;    providers:[],&#10;    styleUrls:['$NAME$.component.scss'],&#10;    templateUrl:'./$NAME$.component.html'&#10;})&#10;&#10;export class $NAME$Component {&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="ng2module" value="import {CommonModule} from '@angular/common';&#10;import {FormsModule} from '@angular/forms';&#10;import {NgModule} from '@angular/core';&#10;import {RouterModule} from '@angular/router';&#10;&#10;import {$NAME$Component} from './$NAME$.component.ts';&#10;import {routes} from './$NAME$.routes.ts';&#10;&#10;@NgModule({&#10;    declarations:[&#10;        $NAME$Component&#10;    ],&#10;    imports:[&#10;        CommonModule,&#10;        FormsModule,&#10;        RouterModule.forChild(routes)&#10;    ]&#10;})&#10;&#10;export class $NAME$Module {&#10;    public static routes = routes;&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="ng2module" value="import {CommonModule} from '@angular/common';&#10;import {FormsModule} from '@angular/forms';&#10;import {NgModule} from '@angular/core';&#10;import {RouterModule} from '@angular/router';&#10;&#10;import {$NAME$Component} from './$NAME$.component.ts';&#10;import {routes} from './$NAME$.routes.ts';&#10;&#10;@NgModule({&#10;    declarations:[&#10;        $NAME$Component&#10;    ],&#10;    imports:[&#10;        CommonModule,&#10;        FormsModule,&#10;        RouterModule.forChild(routes)&#10;    ]&#10;})&#10;&#10;export class $NAME$Module {&#10;    public static routes = routes;&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
