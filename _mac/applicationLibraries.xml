@@ -90,7 +90,7 @@
         <root url="file:///usr/lib/ruby/2.0.0/rbconfig" />
         <root url="file:///usr/lib/ruby/2.0.0/rubygems" />
         <root url="file:///usr/lib/ruby/2.0.0/bigdecimal" />
-        <root url="file:///usr/lib/ruby/2.0.0/universal-darwin15" />
+        <root url="file:///usr/lib/ruby/2.0.0/universal-darwin16" />
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/lib/ruby/2.0.0/dl" />
@@ -124,7 +124,7 @@
         <root url="file:///usr/lib/ruby/2.0.0/rbconfig" />
         <root url="file:///usr/lib/ruby/2.0.0/rubygems" />
         <root url="file:///usr/lib/ruby/2.0.0/bigdecimal" />
-        <root url="file:///usr/lib/ruby/2.0.0/universal-darwin15" />
+        <root url="file:///usr/lib/ruby/2.0.0/universal-darwin16" />
       </SOURCES>
     </library>
   </component>
