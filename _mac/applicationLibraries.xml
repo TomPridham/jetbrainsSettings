@@ -18,6 +18,17 @@
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/libxml-ruby-2.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="node-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_node_index.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_node_index.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="nokogiri (v1.5.6, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/nokogiri-1.5.6/bin" />
@@ -79,7 +90,7 @@
         <root url="file:///usr/lib/ruby/2.0.0/rbconfig" />
         <root url="file:///usr/lib/ruby/2.0.0/rubygems" />
         <root url="file:///usr/lib/ruby/2.0.0/bigdecimal" />
-        <root url="file:///usr/lib/ruby/2.0.0/universal-darwin15" />
+        <root url="file:///usr/lib/ruby/2.0.0/universal-darwin16" />
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/lib/ruby/2.0.0/dl" />
@@ -113,7 +124,7 @@
         <root url="file:///usr/lib/ruby/2.0.0/rbconfig" />
         <root url="file:///usr/lib/ruby/2.0.0/rubygems" />
         <root url="file:///usr/lib/ruby/2.0.0/bigdecimal" />
-        <root url="file:///usr/lib/ruby/2.0.0/universal-darwin15" />
+        <root url="file:///usr/lib/ruby/2.0.0/universal-darwin16" />
       </SOURCES>
     </library>
   </component>
