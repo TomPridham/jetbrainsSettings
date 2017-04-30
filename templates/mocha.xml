@@ -1,5 +1,5 @@
 <templateSet group="mocha">
-  <template name="it" value="it('$VAR$', async(()=&gt;{&#10;    $END$&#10;}))" description="" toReformat="false" toShortenFQNames="true">
+  <template name="it" value="it('$VAR$', ()=&gt;{&#10;    $END$&#10;})" description="" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />

@@ -1,5 +1,29 @@
 <application>
   <component name="libraryTable">
+    <library name="ast (v2.3.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/ast-2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/ast-2.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bundler (v1.15.0.pre.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.15.0.pre.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.15.0.pre.1/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.15.0.pre.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.15.0.pre.1/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.15.0.pre.1/task" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.15.0.pre.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.15.0.pre.1/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.15.0.pre.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.15.0.pre.1/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.15.0.pre.1/task" />
+      </SOURCES>
+    </library>
     <library name="CFPropertyList (v2.2.8, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/CFPropertyList-2.2.8/lib" />
@@ -41,6 +65,56 @@
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/nokogiri-1.5.6/ext" />
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/nokogiri-1.5.6/lib" />
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/nokogiri-1.5.6/tasks" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.4.0.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/parser-2.4.0.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/parser-2.4.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/parser-2.4.0.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/parser-2.4.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="powerpack (v0.1.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/powerpack-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/powerpack-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rainbow (v2.2.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rainbow-2.2.1/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rainbow-2.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rainbow-2.2.1/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rainbow-2.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubocop (v0.48.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rubocop-0.48.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rubocop-0.48.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rubocop-0.48.1/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rubocop-0.48.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rubocop-0.48.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rubocop-0.48.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rubocop-0.48.1/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rubocop-0.48.1/config" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.8.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/ruby-progressbar-1.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/ruby-progressbar-1.8.1/lib" />
       </SOURCES>
     </library>
     <library name="sqlite3 (v1.3.7, ruby-2.0.0-p648) [gem]">
@@ -125,6 +199,16 @@
         <root url="file:///usr/lib/ruby/2.0.0/rubygems" />
         <root url="file:///usr/lib/ruby/2.0.0/bigdecimal" />
         <root url="file:///usr/lib/ruby/2.0.0/universal-darwin16" />
+      </SOURCES>
+    </library>
+    <library name="unicode-display_width (v1.2.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/unicode-display_width-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/unicode-display_width-1.2.1/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/unicode-display_width-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/unicode-display_width-1.2.1/data" />
       </SOURCES>
     </library>
   </component>
