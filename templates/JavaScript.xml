@@ -35,8 +35,14 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="response" value="response.status($var$).send($END$);" toReformat="false" toShortenFQNames="true">
+  <template name="response" value="response.status($var$).send($END$)" toReformat="false" toShortenFQNames="true">
     <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="catch" value=".catch(err =&gt; $END$);" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
