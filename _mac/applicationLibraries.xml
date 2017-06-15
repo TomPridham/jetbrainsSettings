@@ -8,6 +8,18 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/activesupport-4.2.8/lib" />
       </SOURCES>
     </library>
+    <library name="addressable (v2.5.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/addressable-2.5.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/addressable-2.5.1/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/addressable-2.5.1/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/addressable-2.5.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/addressable-2.5.1/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/addressable-2.5.1/tasks" />
+      </SOURCES>
+    </library>
     <library name="ast (v2.3.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/ast-2.3.0/lib" />
@@ -284,6 +296,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/jekyll-relative-links-0.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="jekyll-sass-converter (v1.5.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/jekyll-sass-converter-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/jekyll-sass-converter-1.5.0/lib" />
       </SOURCES>
     </library>
     <library name="jekyll-seo-tag (v2.2.3, ruby-2.0.0-p648) [gem]">
@@ -697,6 +717,18 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rainbow-2.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="rb-fsevent (v0.9.8, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rb-fsevent-0.9.8/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rb-fsevent-0.9.8/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rb-fsevent-0.9.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rb-fsevent-0.9.8/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rb-fsevent-0.9.8/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rb-fsevent-0.9.8/lib" />
+      </SOURCES>
+    </library>
     <library name="rb-inotify (v0.9.8, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rb-inotify-0.9.8/lib" />
@@ -745,6 +777,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/safe_yaml-1.0.4/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/safe_yaml-1.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="sass (v3.4.24, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/sass-3.4.24/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/sass-3.4.24/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/sass-3.4.24/extra" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/sass-3.4.24/rails" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/sass-3.4.24/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/sass-3.4.24/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/sass-3.4.24/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/sass-3.4.24/extra" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/sass-3.4.24/rails" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/sass-3.4.24/vendor" />
       </SOURCES>
     </library>
     <library name="sawyer (v0.8.1, ruby-2.0.0-p648) [gem]">
