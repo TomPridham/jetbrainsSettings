@@ -28,27 +28,27 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="then" value=".then($var$ =&gt; $END$)" toReformat="false" toShortenFQNames="true">
+  <template name="then" value=".then($var$ =&gt; $END$)" description="" toReformat="false" toShortenFQNames="true">
     <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="response" value="response.status($var$).send($END$)" toReformat="false" toShortenFQNames="true">
+  <template name="response" value="response.status($var$).send($END$)" description="" toReformat="false" toShortenFQNames="true">
     <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="catch" value=".catch(err =&gt; $END$);" toReformat="false" toShortenFQNames="true">
+  <template name="catch" value=".catch(err =&gt; $END$);" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="export" value="export * from '$END$';" toReformat="false" toShortenFQNames="true">
+  <template name="export" value="export * from '$END$';" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
