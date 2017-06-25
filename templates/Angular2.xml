@@ -35,7 +35,14 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="providers" value="providers: [&#10;    {provide: $VAR$, useClass: $VAR$}&#10;]" toReformat="false" toShortenFQNames="true">
+  <template name="providers" value="providers: [&#10;    {provide: $VAR$, useClass: $VAR$Mock}&#10;]" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="provide" value="{provide: $VAR$, useClass: $VAR$Mock}" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
