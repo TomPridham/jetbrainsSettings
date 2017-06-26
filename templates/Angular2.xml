@@ -26,7 +26,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="ng2-test" value="import {TestBed, async} from '@angular/core/testing';&#10;import {$VAR$} from './$file$';&#10;&#10;describe('$VAR$', () =&gt; {&#10;    let fixture;&#10;    beforeEach(() =&gt; {&#10;        TestBed.configureTestingModule({&#10;            declarations: [&#10;                $VAR$&#10;            ],&#10;        });&#10;        fixture = TestBed.createComponent($VAR$);&#10;    });&#10;&#10;    it('should exist', async(() =&gt; {&#10;        const $comp$ = fixture.debugElement.componentInstance;&#10;        expect($comp$).toBeTruthy();&#10;    }));&#10;});" toReformat="false" toShortenFQNames="true">
+  <template name="ng2-test" value="import {TestBed, async} from '@angular/core/testing';&#10;import {$VAR$} from './$file$';&#10;&#10;describe('$VAR$', () =&gt; {&#10;    let fixture;&#10;    beforeEach(() =&gt; {&#10;        TestBed.configureTestingModule({&#10;            declarations: [&#10;                $VAR$&#10;            ],&#10;        });&#10;        fixture = TestBed.createComponent($VAR$);&#10;    });&#10;&#10;    it('should exist', async(() =&gt; {&#10;        const $comp$ = fixture.debugElement.componentInstance;&#10;        expect($comp$).toBeTruthy();&#10;    }));&#10;});" description="" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="file" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <variable name="comp" expression="" defaultValue="" alwaysStopAt="true" />
@@ -35,21 +35,21 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="providers" value="providers: [&#10;    {provide: $VAR$, useClass: $VAR$Mock}&#10;]" toReformat="false" toShortenFQNames="true">
+  <template name="providers" value="providers: [&#10;    {provide: $VAR$, useClass: $VAR$Mock}&#10;]" description="" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="provide" value="{provide: $VAR$, useClass: $VAR$Mock}" toReformat="false" toShortenFQNames="true">
+  <template name="provide" value="{provide: $VAR$, useClass: $VAR$Mock}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="MockComponent" value="MockComponent({selector: '$VAR$', inputs: ['$VAR2$']})" toReformat="false" toShortenFQNames="true">
+  <template name="MockComponent" value="MockComponent({selector: '$VAR$', inputs: ['$VAR2$']})" description="" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
