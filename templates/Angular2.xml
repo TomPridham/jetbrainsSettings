@@ -49,4 +49,12 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="MockComponent" value="MockComponent({selector: '$VAR$', inputs: ['$VAR2$']})" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
