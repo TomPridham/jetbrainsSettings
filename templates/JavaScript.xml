@@ -28,7 +28,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name=".then" value=".then($var$ =&gt; $END$)" description="" toReformat="false" toShortenFQNames="true">
+  <template name="then" value=".then($var$ =&gt; $END$)" description="" toReformat="false" toShortenFQNames="true">
     <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
