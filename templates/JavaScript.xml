@@ -54,13 +54,13 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="sess" value="request.session" toReformat="false" toShortenFQNames="true">
+  <template name="sess" value="request.session" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="body" value="request.body" toReformat="false" toShortenFQNames="true">
+  <template name="body" value="request.body" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
