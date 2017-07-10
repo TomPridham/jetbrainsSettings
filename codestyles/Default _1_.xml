@@ -1,5 +1,6 @@
 <code_scheme name="Default (1)">
   <option name="HTML_QUOTE_STYLE" value="Single" />
+  <option name="HTML_ENFORCE_QUOTES" value="true" />
   <JSCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
     <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
