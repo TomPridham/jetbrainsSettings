@@ -1,15 +1,15 @@
 <code_scheme name="Default (1)">
   <option name="HTML_QUOTE_STYLE" value="Single" />
+  <option name="HTML_ENFORCE_QUOTES" value="true" />
   <JSCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
-    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
     <option name="OBJECT_LITERAL_WRAP" value="2" />
   </JSCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
-    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
+    <option name="ALIGN_MULTILINE_VAR_DECLARATION" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
   </TypeScriptCodeStyleSettings>
   <editorconfig>
