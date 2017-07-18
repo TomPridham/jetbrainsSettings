@@ -11,6 +11,7 @@
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
     <option name="ALIGN_MULTILINE_VAR_DECLARATION" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="BLACKLIST_IMPORTS" value="rxjs,faker" />
   </TypeScriptCodeStyleSettings>
   <editorconfig>
     <option name="ENABLED" value="false" />
