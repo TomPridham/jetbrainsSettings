@@ -1,17 +1,17 @@
 <code_scheme name="Default (1)">
-  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="HTML_QUOTE_STYLE" value="Single" />
+  <option name="HTML_ENFORCE_QUOTES" value="true" />
   <JSCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
-    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
     <option name="OBJECT_LITERAL_WRAP" value="2" />
   </JSCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
-    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
+    <option name="ALIGN_MULTILINE_VAR_DECLARATION" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="BLACKLIST_IMPORTS" value="rxjs,faker" />
   </TypeScriptCodeStyleSettings>
   <editorconfig>
     <option name="ENABLED" value="false" />
@@ -32,6 +32,9 @@
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
-    <option name="WRAP_ON_TYPING" value="1" />
+  </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
   </codeStyleSettings>
 </code_scheme>
