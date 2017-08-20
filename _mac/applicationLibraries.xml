@@ -719,11 +719,13 @@
     </library>
     <library name="rb-fsevent (v0.9.8, ruby-2.0.0-p648) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rb-fsevent-0.9.8/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rb-fsevent-0.9.8/lib" />
