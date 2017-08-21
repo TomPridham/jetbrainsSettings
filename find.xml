@@ -5,9 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
-      <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
@@ -21,14 +20,12 @@
       <mask>*.h</mask>
       <mask>*.</mask>
       <mask>*.t</mask>
-      <mask>*.ts</mask>
       <mask>*.ts,</mask>
       <mask>*.ts, *</mask>
       <mask>*.ts, *.</mask>
       <mask>*.ts, *.j</mask>
       <mask>*.ts, *.js</mask>
       <mask>*.ts,*.js</mask>
-      <mask>*.ts*.js</mask>
       <mask>*.t*.js</mask>
       <mask>*.*.js</mask>
       <mask>**.js</mask>
@@ -37,6 +34,9 @@
       <mask>*.js*.js</mask>
       <mask>*.js, *.js</mask>
       <mask>*.js</mask>
+      <mask>*.ts*.jss</mask>
+      <mask>*.ts*.js</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
