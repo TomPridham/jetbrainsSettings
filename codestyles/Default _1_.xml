@@ -1,4 +1,5 @@
 <code_scheme name="Default (1)">
+  <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   <option name="HTML_QUOTE_STYLE" value="Single" />
   <option name="HTML_ENFORCE_QUOTES" value="true" />
   <JSCodeStyleSettings>
