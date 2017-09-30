@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
       <mask>*.rb</mask>
       <mask>*.r</mask>
       <mask>*.html</mask>
@@ -31,9 +31,10 @@
       <mask>*.bhs</mask>
       <mask>*.bh</mask>
       <mask>*.b</mask>
-      <mask>*.</mask>
       <mask>*.hbs</mask>
       <mask>*.ts</mask>
+      <mask>*.</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
