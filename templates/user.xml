@@ -1,0 +1,9 @@
+<templateSet group="user">
+  <template name="try" value="try {&#10;  $var$&#10;} catch (e) {&#10;  $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

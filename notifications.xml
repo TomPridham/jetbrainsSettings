@@ -1,0 +1,12 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId=".ignore plugin" displayType="NONE" shouldLog="false" />
+    <notification groupId=".ignore plugin update information" displayType="NONE" shouldLog="false" />
+    <notification groupId="Dependencies from package.json" displayType="NONE" shouldLog="false" />
+    <notification groupId="Docker: Dockerfile detection" shouldLog="false" />
+    <notification groupId="IGNORE_GROUP" displayType="NONE" shouldLog="false" />
+    <notification groupId="IGNORE_GROUP_UPDATE" displayType="NONE" shouldLog="false" />
+    <notification groupId="Wallaby Expired License" displayType="NONE" shouldLog="false" />
+    <notification groupId="Wallaby License" displayType="NONE" shouldLog="false" />
+  </component>
+</application>
