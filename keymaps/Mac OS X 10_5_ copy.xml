@@ -81,4 +81,7 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="com.intellij.lang.jsgraphql.ide.actions.JSGraphQLExecuteEditorAction" />
+  <action id="osmedile.intellij.stringmanip.styles.ToCamelCaseOrToWordLowercaseAction">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
 </keymap>
