@@ -2,14 +2,54 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.connect.js" timestamp="1539630917189" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.test.js" timestamp="1539630870940">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="38" />
+        <mark key="^" line="9" column="38" />
+        <mark key="." line="9" column="38" />
+      </file>
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.enhancers.js" timestamp="1539630557480">
+        <mark key="[" line="31" column="42" />
+        <mark key="]" line="32" column="3" />
+        <mark key="^" line="32" column="3" />
+        <mark key="." line="32" column="3" />
+      </file>
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.js" timestamp="1539630684865">
+        <mark key="'" line="47" column="6" />
+        <mark key="[" line="47" column="6" />
+        <mark key="]" line="51" column="6" />
+        <mark key="^" line="51" column="6" />
+        <mark key="." line="51" column="6" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="47" column="6" filename="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>contains</text>
+      </register>
+      <register name=":" type="4">
+        <text>48</text>
+      </register>
+      <register name="-" type="4">
+        <text>contains</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-cmd>
+        <entry>12</entry>
+        <entry>32</entry>
+        <entry>40</entry>
+        <entry>48</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts />
     <editor>
       <key-repeat enabled="true" />
