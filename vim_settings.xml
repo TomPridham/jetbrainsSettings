@@ -15,7 +15,7 @@
         <mark key="^" line="15" column="1" />
         <mark key="." line="15" column="1" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1539637619712">
+      <file name="/GraphQL.result.json" timestamp="1539641507150">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/utils/user-methods.js" timestamp="1539634690189">
@@ -35,7 +35,12 @@
         <mark key="^" line="7" column="65" />
         <mark key="." line="7" column="65" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/connect-account/connect-account.handlers.js" timestamp="1539637468781" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.queries.js" timestamp="1539641258785">
+        <mark key="'" line="5" column="2" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="jane-seller.graphqls" timestamp="1539637644218">
         <mark key="[" line="0" column="0" />
       </file>
@@ -56,12 +61,12 @@
         <mark key="^" line="19" column="18" />
         <mark key="." line="19" column="18" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/graphql.config.json" timestamp="1539638986016">
-        <mark key="'" line="18" column="6" />
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="43" />
-        <mark key="." line="4" column="43" />
-        <mark key="^" line="4" column="43" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/graphql.config.json" timestamp="1539641564231">
+        <mark key="'" line="17" column="6" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="3" column="43" />
       </file>
     </filemarks>
     <jumps>
@@ -70,56 +75,57 @@
       <jump line="6" column="0" filename="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.handlers.js" />
       <jump line="18" column="15" filename="$USER_HOME$/webstormProjects/jane-seller/graphql.config.json" />
       <jump line="19" column="6" filename="$USER_HOME$/webstormProjects/jane-seller/graphql.config.json" />
+      <jump line="5" column="2" filename="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.queries.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>http://seller-orgs.seller-lab.jane.local/api/graphql</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJSRUFETUVfcmVxdWVzdCIgOiAiVG8gcmVxdWVzdCB0aGUgc2NoZW1hIGZyb20gYSB1cmkgaW5zdGVhZCwgcmVtb3ZlIHRoZSAnZmlsZScgSlNPTiBwcm9wZXJ0eSBhYm92ZSAoYW5kIG9wdGlvbmFsbHkgZGVsZXRlIHRoZSBkZWZhdWx0IGdyYXBocWwuc2NoZW1hLmpzb24gZmlsZSkuIiwK</text>
       </register>
       <register name="e" type="4">
         <text>Default (http://localhost:8080/graphql)</text>
       </register>
       <register name="-" type="4">
-        <text>http://seller-orgs.seller-lab.jane.local/api/graphql</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
-        <text>url</text>
+        <text>Employee</text>
       </register>
-      <register name="1" type="4">
-        <text>Default (http://localhost:8080/graphql)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICJSRUFETUVfcmVxdWVzdCIgOiAiVG8gcmVxdWVzdCB0aGUgc2NoZW1hIGZyb20gYSB1cmkgaW5zdGVhZCwgcmVtb3ZlIHRoZSAnZmlsZScgSlNPTiBwcm9wZXJ0eSBhYm92ZSAoYW5kIG9wdGlvbmFsbHkgZGVsZXRlIHRoZSBkZWZhdWx0IGdyYXBocWwuc2NoZW1hLmpzb24gZmlsZSkuIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIm5hbWUiOiAiRGVmYXVsdCAoaHR0cDovL2xvY2FsaG9zdDo4MDgwL2dyYXBocWwpIiwK</text>
+        <text encoding="base64">YAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiUkVBRE1FX2VuZHBvaW50cyI6ICJBIGxpc3Qgb2YgR3JhcGhRTCBlbmRwb2ludHMgdGhhdCBjYW4gYmUgcXVlcmllZCBmcm9tICcuZ3JhcGhxbCcgZmlsZXMgaW4gdGhlIElERSIsCg==</text>
+        <text encoding="base64">ICBtdXRhdGlvbiBjb25maXJtRW1haWwoaW52aXRhdGlvbktleTogc3RyaW5nKSB7CiAgICBjb25maXJtRW1haWwKICB9Vgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIlJFQURNRV9vcHRpb25zIiA6ICJTZWUgdGhlICdPcHRpb25zJyBzZWN0aW9uIGF0IGh0dHBzOi8vZ2l0aHViLmNvbS90aGVuL3RoZW4tcmVxdWVzdCIsCg==</text>
+      <register name="4" type="4">
+        <text>Default (http://localhost:8080/graphql)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIlJFQURNRV9wb3N0SW50cm9zcGVjdGlvblF1ZXJ5IiA6ICJXaGV0aGVyIHRvIFBPU1QgYW4gaW50cm9zcGVjdGlvblF1ZXJ5IHRvIHRoZSB1cmwuIElmIHRoZSB1cmwgYWx3YXlzIHJldHVybnMgdGhlIHNjaGVtYSBKU09OLCBzZXQgdG8gZmFsc2UgYW5kIGNvbnNpZGVyIHVzaW5nIEdFVCIsCg==</text>
+        <text encoding="base64">ICAgICAgIm5hbWUiOiAiRGVmYXVsdCAoaHR0cDovL2xvY2FsaG9zdDo4MDgwL2dyYXBocWwpIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiUkVBRE1FX2VuZHBvaW50cyI6ICJBIGxpc3Qgb2YgR3JhcGhRTCBlbmRwb2ludHMgdGhhdCBjYW4gYmUgcXVlcmllZCBmcm9tICcuZ3JhcGhxbCcgZmlsZXMgaW4gdGhlIElERSIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIlJFQURNRV9vcHRpb25zIiA6ICJTZWUgdGhlICdPcHRpb25zJyBzZWN0aW9uIGF0IGh0dHBzOi8vZ2l0aHViLmNvbS90aGVuL3RoZW4tcmVxdWVzdCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiUkVBRE1FX3NjaGVtYSIgOiAiU3BlY2lmaWVzIGhvdyB0byBsb2FkIHRoZSBHcmFwaFFMIHNjaGVtYSB0aGF0IGNvbXBsZXRpb24sIGVycm9yIGhpZ2hsaWdodGluZywgYW5kIGRvY3VtZW50YXRpb24gaXMgYmFzZWQgb24gaW4gdGhlIElERSIsCg==</text>
+        <text encoding="base64">ICAgICAgIlJFQURNRV9wb3N0SW50cm9zcGVjdGlvblF1ZXJ5IiA6ICJXaGV0aGVyIHRvIFBPU1QgYW4gaW50cm9zcGVjdGlvblF1ZXJ5IHRvIHRoZSB1cmwuIElmIHRoZSB1cmwgYWx3YXlzIHJldHVybnMgdGhlIHNjaGVtYSBKU09OLCBzZXQgdG8gZmFsc2UgYW5kIGNvbnNpZGVyIHVzaW5nIEdFVCIsCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/url/uri/g</text>
+        <text>%s/Employee/Email/g</text>
       </register>
     </registers>
     <search>
-      <last-search>url</last-search>
-      <last-pattern>url</last-pattern>
-      <last-replace>uri</last-replace>
-      <last-substitute>url</last-substitute>
+      <last-search>Employee</last-search>
+      <last-pattern>Employee</last-pattern>
+      <last-replace>Email</last-replace>
+      <last-substitute>Employee</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
@@ -127,6 +133,7 @@
       <history-search>
         <entry>connect-account</entry>
         <entry>url</entry>
+        <entry>Employee</entry>
       </history-search>
       <history-cmd>
         <entry>12</entry>
@@ -144,7 +151,10 @@
         <entry>%s/url/uri/g</entry>
         <entry>v/url/d</entry>
         <entry>g/url/d</entry>
+        <entry>%s/Employee/Email/g</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
