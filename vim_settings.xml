@@ -3,39 +3,79 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.connect.js" timestamp="1539630917189" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/config/user/types.js" timestamp="1539634570232">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="13" column="18" />
+        <mark key="^" line="13" column="18" />
+        <mark key="." line="13" column="18" />
+      </file>
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.connect.js" timestamp="1539635156403">
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="15" column="1" />
+        <mark key="^" line="15" column="1" />
+        <mark key="." line="15" column="1" />
+      </file>
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.test.js" timestamp="1539630870940">
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="38" />
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.enhancers.js" timestamp="1539630557480">
-        <mark key="[" line="31" column="42" />
-        <mark key="]" line="32" column="3" />
-        <mark key="^" line="32" column="3" />
-        <mark key="." line="32" column="3" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/utils/user-methods.js" timestamp="1539634690189">
+        <mark key="[" line="213" column="8" />
+        <mark key="]" line="213" column="26" />
+        <mark key="^" line="213" column="26" />
+        <mark key="." line="213" column="26" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.js" timestamp="1539630684865">
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/navigation.js" timestamp="1539634806110">
+        <mark key="[" line="74" column="37" />
+        <mark key="]" line="74" column="37" />
+        <mark key="." line="74" column="37" />
+      </file>
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.enhancers.js" timestamp="1539635438862">
+        <mark key="[" line="38" column="16" />
+        <mark key="]" line="39" column="18" />
+        <mark key="." line="39" column="18" />
+        <mark key="^" line="39" column="18" />
+      </file>
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.js" timestamp="1539635499861">
         <mark key="'" line="47" column="6" />
-        <mark key="[" line="47" column="6" />
-        <mark key="]" line="51" column="6" />
-        <mark key="^" line="51" column="6" />
-        <mark key="." line="51" column="6" />
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="12" column="32" />
+        <mark key="^" line="12" column="32" />
+        <mark key="." line="12" column="32" />
       </file>
     </filemarks>
     <jumps>
       <jump line="47" column="6" filename="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>contains</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBpc0xvZ2dlZEluOiBib29sZWFuLAo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBpc0xvZ2dlZEluOiBib29sZWFuLAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGlzTG9nZ2VkSW46IGZhbHNlLAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMudXBkYXRlU3RhdGUoeyBpc0xvZ2dlZEluIH0pCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGlzTG9nZ2VkSW4gPSBkb2N1bWVudC5jb29raWUuaW5jbHVkZXMoJ2phbmV0b2tlbicpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlzU2VsbGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>48</text>
       </register>
       <register name="-" type="4">
-        <text>contains</text>
+        <text encoding="base64">cm9sZXMuc29tZSgocm9sZSkgPT4gcm9sZSA9PT0gJ2d1ZXN0Jyk=</text>
       </register>
     </registers>
     <search>
@@ -47,6 +87,9 @@
         <entry>12</entry>
         <entry>32</entry>
         <entry>40</entry>
+        <entry>102</entry>
+        <entry>150</entry>
+        <entry>16</entry>
         <entry>48</entry>
       </history-cmd>
     </history>
