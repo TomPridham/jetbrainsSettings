@@ -15,7 +15,7 @@
         <mark key="^" line="15" column="1" />
         <mark key="." line="15" column="1" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1539641507150">
+      <file name="/GraphQL.result.json" timestamp="1539710427677">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/utils/user-methods.js" timestamp="1539634690189">
@@ -29,11 +29,12 @@
         <mark key="." line="15" column="18" />
         <mark key="^" line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.handlers.js" timestamp="1539637566498">
-        <mark key="'" line="6" column="0" />
-        <mark key="]" line="7" column="65" />
-        <mark key="^" line="7" column="65" />
-        <mark key="." line="7" column="65" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.handlers.js" timestamp="1539710027350">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="53" column="4" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.js" timestamp="1539705806398">
         <mark key="[" line="8" column="32" />
@@ -44,7 +45,10 @@
         <mark key="^" line="43" column="92" />
         <mark key="." line="43" column="92" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/legacy/scripts/deals/controllers/list.js" timestamp="1539706993230" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/connect-account/connect-account.handlers.js" timestamp="1539710019495">
+        <mark key="[" line="19" column="2" />
+        <mark key="]" line="63" column="3" />
+      </file>
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.queries.js" timestamp="1539706084679">
         <mark key="'" line="5" column="2" />
         <mark key="[" line="7" column="13" />
@@ -88,17 +92,20 @@
       <jump line="5" column="2" filename="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.queries.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJSRUFETUVfcmVxdWVzdCIgOiAiVG8gcmVxdWVzdCB0aGUgc2NoZW1hIGZyb20gYSB1cmkgaW5zdGVhZCwgcmVtb3ZlIHRoZSAnZmlsZScgSlNPTiBwcm9wZXJ0eSBhYm92ZSAoYW5kIG9wdGlvbmFsbHkgZGVsZXRlIHRoZSBkZWZhdWx0IGdyYXBocWwuc2NoZW1hLmpzb24gZmlsZSkuIiwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">b3B0aW9uczogKHsgbWF0Y2g6IHsgcGFyYW1zIH0gfSkgPT4gKHsKICAgIHZhcmlhYmxlczogeyBpbnZpdGF0aW9uS2V5OiBwYXJhbXMuaW52aXRhdGlvbktleSB9LAogIH0pLAogIHByb3BzOiAoewogICAgZGF0YTogeyBlbXBsb3llZUludml0YXRpb25CeUludml0YXRpb25LZXksIGxvYWRpbmcsIGVycm9yIH0sCiAgICBvd25Qcm9wczogeyB1c2VyIH0sCiAgfSk6IEludml0ZUluZm9SZXN1bHRzID0+IHsKICAgIGlmIChsb2FkaW5nKSByZXR1cm4geyBsb2FkaW5nIH0KICAgIGlmIChlcnJvcikgcmV0dXJuIHsgZXJyb3I6IHRydWUgfQogICAgaWYgKAogICAgICAhZW1wbG95ZWVJbnZpdGF0aW9uQnlJbnZpdGF0aW9uS2V5IHx8CiAgICAgIGVtcGxveWVlSW52aXRhdGlvbkJ5SW52aXRhdGlvbktleS5jYW5jZWxsZWQKICAgICkgewogICAgICBjb25zdCBlcnJvck1lc3NhZ2UgPSBgVGhpcyBpbnZpdGF0aW9uIGhhcyBiZWVuICR7CiAgICAgICAgIWVtcGxveWVlSW52aXRhdGlvbkJ5SW52aXRhdGlvbktleSA/ICdmdWxmaWxsZWQnIDogJ2NhbmNlbGxlZCcKICAgICAgfS4gUGxlYXNlIGNvbnRhY3QgeW91ciBhY2NvdW50IG93bmVyLmAKICAgICAgcmV0dXJuIHsKICAgICAgICBlcnJvcjogdHJ1ZSwKICAgICAgICBlcnJvck1lc3NhZ2UsCiAgICAgIH0KICAgIH0KCiAgICBpZiAoCiAgICAgIHVzZXIuYWNjb3VudHMgJiYKICAgICAgdXNlci5hY2NvdW50cy5zb21lKAogICAgICAgICh7IHNlbGxlck9yZ2FuaXphdGlvbklkIH0pID0+CiAgICAgICAgICBzZWxsZXJPcmdhbml6YXRpb25JZCA9PT0KICAgICAgICAgIGVtcGxveWVlSW52aXRhdGlvbkJ5SW52aXRhdGlvbktleS5zZWxsZXJPcmdhbml6YXRpb25JZAogICAgICApCiAgICApIHsKICAgICAgcmV0dXJuIHsKICAgICAgICBhbHJlYWR5Q29ubmVjdGVkOiB0cnVlLAogICAgICAgIHNlbGxlck5hbWU6IGVtcGxveWVlSW52aXRhdGlvbkJ5SW52aXRhdGlvbktleS5zZWxsZXJPcmdhbml6YXRpb24ubmFtZSwKICAgICAgICBzZWxsZXJQcm9maWxlSW1hZ2U6CiAgICAgICAgICBlbXBsb3llZUludml0YXRpb25CeUludml0YXRpb25LZXkuc2VsbGVyT3JnYW5pemF0aW9uLmF0dHJpYnV0ZXMKICAgICAgICAgICAgLnByb2ZpbGVJbWFnZVBhdGgsCiAgICAgIH0KICAgIH0KICAgIHJldHVybiB7CiAgICAgIHNlbGxlck5hbWU6IGVtcGxveWVlSW52aXRhdGlvbkJ5SW52aXRhdGlvbktleS5zZWxsZXJPcmdhbml6YXRpb24ubmFtZSwKICAgICAgc2VsbGVyUHJvZmlsZUltYWdlOgogICAgICAgIGVtcGxveWVlSW52aXRhdGlvbkJ5SW52aXRhdGlvbktleS5zZWxsZXJPcmdhbml6YXRpb24uYXR0cmlidXRlcwogICAgICAgICAgLnByb2ZpbGVJbWFnZVBhdGgsCiAgICB9CiAgfSw=</text>
       </register>
       <register name="e" type="4">
         <text>Default (http://localhost:8080/graphql)</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>getInvitationInfoQuer</text>
       </register>
       <register name="/" type="4">
         <text>Employee</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">b3B0aW9uczogKHsgbWF0Y2g6IHsgcGFyYW1zIH0gfSkgPT4gKHsKICAgIHZhcmlhYmxlczogeyBpbnZpdGF0aW9uS2V5OiBwYXJhbXMuaW52aXRhdGlvbktleSB9LAogIH0pLAogIHByb3BzOiAoewogICAgZGF0YTogeyBlbXBsb3llZUludml0YXRpb25CeUludml0YXRpb25LZXksIGxvYWRpbmcsIGVycm9yIH0sCiAgICBvd25Qcm9wczogeyB1c2VyIH0sCiAgfSk6IEludml0ZUluZm9SZXN1bHRzID0+IHsKICAgIGlmIChsb2FkaW5nKSByZXR1cm4geyBsb2FkaW5nIH0KICAgIGlmIChlcnJvcikgcmV0dXJuIHsgZXJyb3I6IHRydWUgfQogICAgaWYgKAogICAgICAhZW1wbG95ZWVJbnZpdGF0aW9uQnlJbnZpdGF0aW9uS2V5IHx8CiAgICAgIGVtcGxveWVlSW52aXRhdGlvbkJ5SW52aXRhdGlvbktleS5jYW5jZWxsZWQKICAgICkgewogICAgICBjb25zdCBlcnJvck1lc3NhZ2UgPSBgVGhpcyBpbnZpdGF0aW9uIGhhcyBiZWVuICR7CiAgICAgICAgIWVtcGxveWVlSW52aXRhdGlvbkJ5SW52aXRhdGlvbktleSA/ICdmdWxmaWxsZWQnIDogJ2NhbmNlbGxlZCcKICAgICAgfS4gUGxlYXNlIGNvbnRhY3QgeW91ciBhY2NvdW50IG93bmVyLmAKICAgICAgcmV0dXJuIHsKICAgICAgICBlcnJvcjogdHJ1ZSwKICAgICAgICBlcnJvck1lc3NhZ2UsCiAgICAgIH0KICAgIH0KCiAgICBpZiAoCiAgICAgIHVzZXIuYWNjb3VudHMgJiYKICAgICAgdXNlci5hY2NvdW50cy5zb21lKAogICAgICAgICh7IHNlbGxlck9yZ2FuaXphdGlvbklkIH0pID0+CiAgICAgICAgICBzZWxsZXJPcmdhbml6YXRpb25JZCA9PT0KICAgICAgICAgIGVtcGxveWVlSW52aXRhdGlvbkJ5SW52aXRhdGlvbktleS5zZWxsZXJPcmdhbml6YXRpb25JZAogICAgICApCiAgICApIHsKICAgICAgcmV0dXJuIHsKICAgICAgICBhbHJlYWR5Q29ubmVjdGVkOiB0cnVlLAogICAgICAgIHNlbGxlck5hbWU6IGVtcGxveWVlSW52aXRhdGlvbkJ5SW52aXRhdGlvbktleS5zZWxsZXJPcmdhbml6YXRpb24ubmFtZSwKICAgICAgICBzZWxsZXJQcm9maWxlSW1hZ2U6CiAgICAgICAgICBlbXBsb3llZUludml0YXRpb25CeUludml0YXRpb25LZXkuc2VsbGVyT3JnYW5pemF0aW9uLmF0dHJpYnV0ZXMKICAgICAgICAgICAgLnByb2ZpbGVJbWFnZVBhdGgsCiAgICAgIH0KICAgIH0KICAgIHJldHVybiB7CiAgICAgIHNlbGxlck5hbWU6IGVtcGxveWVlSW52aXRhdGlvbkJ5SW52aXRhdGlvbktleS5zZWxsZXJPcmdhbml6YXRpb24ubmFtZSwKICAgICAgc2VsbGVyUHJvZmlsZUltYWdlOgogICAgICAgIGVtcGxveWVlSW52aXRhdGlvbkJ5SW52aXRhdGlvbktleS5zZWxsZXJPcmdhbml6YXRpb24uYXR0cmlidXRlcwogICAgICAgICAgLnByb2ZpbGVJbWFnZVBhdGgsCiAgICB9CiAgfSw=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJSRUFETUVfcmVxdWVzdCIgOiAiVG8gcmVxdWVzdCB0aGUgc2NoZW1hIGZyb20gYSB1cmkgaW5zdGVhZCwgcmVtb3ZlIHRoZSAnZmlsZScgSlNPTiBwcm9wZXJ0eSBhYm92ZSAoYW5kIG9wdGlvbmFsbHkgZGVsZXRlIHRoZSBkZWZhdWx0IGdyYXBocWwuc2NoZW1hLmpzb24gZmlsZSkuIiwK</text>
