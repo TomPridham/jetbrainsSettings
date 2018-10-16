@@ -35,17 +35,20 @@
         <mark key="^" line="7" column="65" />
         <mark key="." line="7" column="65" />
       </file>
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.js" timestamp="1539705806398">
+        <mark key="[" line="8" column="32" />
+      </file>
       <file name="$USER_HOME$/webstormProjects/jane-core-automation/CUnit/Tests/SellerXP/SellerTests.cs" timestamp="1539656956892">
         <mark key="[" line="43" column="8" />
         <mark key="]" line="43" column="92" />
         <mark key="^" line="43" column="92" />
         <mark key="." line="43" column="92" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.queries.js" timestamp="1539641258785">
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.queries.js" timestamp="1539706084679">
         <mark key="'" line="5" column="2" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="jane-seller.graphqls" timestamp="1539637644218">
         <mark key="[" line="0" column="0" />
