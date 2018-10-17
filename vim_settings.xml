@@ -29,14 +29,17 @@
         <mark key="^" line="4" column="49" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.handlers.js" timestamp="1539735853237">
-        <mark key="'" line="3" column="38" />
-        <mark key="[" line="17" column="19" />
-        <mark key="]" line="17" column="19" />
-        <mark key="." line="17" column="19" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.handlers.js" timestamp="1539741943097">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="25" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.js" timestamp="1539705806398">
-        <mark key="[" line="8" column="32" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.js" timestamp="1539741258500">
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="13" column="18" />
+        <mark key="^" line="13" column="18" />
+        <mark key="." line="13" column="18" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-core-automation/CUnit/Tests/SellerXP/SellerTests.cs" timestamp="1539656956892">
         <mark key="[" line="43" column="8" />
@@ -68,11 +71,11 @@
         <mark key="]" line="74" column="37" />
         <mark key="." line="74" column="37" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/config/user/reducer.js" timestamp="1539636634800">
-        <mark key="[" line="19" column="2" />
-        <mark key="]" line="19" column="18" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/config/user/reducer.js" timestamp="1539741315423">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
         <mark key="^" line="19" column="18" />
-        <mark key="." line="19" column="18" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-seller/graphql.config.json" timestamp="1539641564231">
         <mark key="'" line="17" column="6" />
@@ -91,16 +94,18 @@
       <jump line="5" column="2" filename="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.queries.js" />
       <jump line="19" column="7" filename="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.handlers.js" />
       <jump line="3" column="38" filename="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.handlers.js" />
+      <jump line="17" column="25" filename="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.handlers.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.handlers.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGNvbmZpcm1FbWFpbCwgbG9hZGluZywgZXJyb3Ig</text>
+        <text encoding="base64">KCk9Pg==</text>
       </register>
       <register name="e" type="4">
         <text>Default (http://localhost:8080/graphql)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNvbmZpcm1FbWFpbCwgbG9hZGluZywgZXJyb3Ig</text>
+        <text encoding="base64">KCk9Pg==</text>
       </register>
       <register name="/" type="4">
         <text>verify-email</text>
@@ -109,31 +114,31 @@
         <text encoding="base64">eyBjb25maXJtRW1haWwsIGxvYWRpbmcsIGVycm9yIH0g</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcHV0SnNvbiB9IGZyb20gJ0BqYW5lY29ycC9qYW5lLXdlYi1jbGllbnQnCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcGF0aCB9IGZyb20gJ3JhbWRhJwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgcHV0SnNvbiB9IGZyb20gJ0BqYW5lY29ycC9qYW5lLXdlYi1jbGllbnQnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsaWZlY3ljbGUsCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgcGF0aCB9IGZyb20gJ3JhbWRhJwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICBsaWZlY3ljbGUsCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICB3aXRoU3RhdGVIYW5kbGVycywK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CmV4cG9ydCBjb25zdCB3aXRoUmVzdWx0U3RhdGUgPSB3aXRoU3RhdGVIYW5kbGVycygKICB7CiAgICB2ZXJpZmljYXRpb25TdGF0ZTogJ2xvYWRpbmcnLAogICAgdmVyaWZpZWRFbWFpbDogbnVsbCwKICAgIGVycm9yTWVzc2FnZTogbnVsbCwKICB9LAogIHsKICAgIHVwZGF0ZVN0YXRlOiAocHJldlN0YXRlKSA9PiAobmV3U3RhdGUpID0+ICh7CiAgICAgIC4uLnByZXZTdGF0ZSwKICAgICAgLi4ubmV3U3RhdGUsCiAgICB9KSwKICB9CikKZXhwb3J0IGNvbnN0IGJlZ2luVmVyaWZpY2F0aW9uID0gbGlmZWN5Y2xlKHsKICBhc3luYyBjb21wb25lbnRXaWxsTW91bnQoKTogUHJvbWlzZTx2b2lkPiB7CiAgICB0cnkgewogICAgICBjb25zdCBrZXkgPSBwYXRoKFsncHJvcHMnLCAnbWF0Y2gnLCAncGFyYW1zJywgJ3Rva2VuJ10sIHRoaXMpCiAgICAgIGNvbnN0IHJlcyA9IGF3YWl0IHB1dEpzb24oYC9wcm94eS9zZWxsZXItb3Jncy9lbWFpbHMvY29uZmlybT9rZXk9JHtrZXl9YCkKICAgICAgaWYgKHJlcykgewogICAgICAgIHRoaXMucHJvcHMudXBkYXRlU3RhdGUoewogICAgICAgICAgdmVyaWZpZWRFbWFpbDogcmVzLmVtYWlsLAogICAgICAgICAgdmVyaWZpY2F0aW9uU3RhdGU6ICdzdWNjZXNzJywKICAgICAgICB9KQogICAgICB9CiAgICB9IGNhdGNoIChlKSB7CiAgICAgIGNvbnNvbGUubG9nKGUpCiAgICAgIGlmIChlLnR5cGUgPT09ICdWRScpIHsKICAgICAgICB0aGlzLnByb3BzLnVwZGF0ZVN0YXRlKHsKICAgICAgICAgIHZlcmlmaWVkRW1haWw6IGUuZW1haWwsCiAgICAgICAgICB2ZXJpZmljYXRpb25TdGF0ZTogJ3N1Y2Nlc3MnLAogICAgICAgIH0pCiAgICAgIH0gZWxzZSB7CiAgICAgICAgdGhpcy5wcm9wcy51cGRhdGVTdGF0ZSh7CiAgICAgICAgICBlcnJvck1lc3NhZ2U6IGUubWVzc2FnZSwKICAgICAgICAgIHZlcmlmaWNhdGlvblN0YXRlOiAnZmFpbGVkJywKICAgICAgICB9KQogICAgICB9CiAgICB9CiAgfSwKfSk=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBiZWdpblZlcmlmaWNhdGlvbiwK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB3aXRoUmVzdWx0U3RhdGUsCg==</text>
+        <text encoding="base64">ICBiZWdpblZlcmlmaWNhdGlvbiwK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICB3aXRoUmVzdWx0U3RhdGUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBiZWdpblZlcmlmaWNhdGlvbiwK</text>
+        <text encoding="base64">ICB3aXRoUmVzdWx0U3RhdGUsCg==</text>
       </register>
       <register name=":" type="4">
         <text>13</text>
