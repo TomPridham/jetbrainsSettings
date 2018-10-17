@@ -9,10 +9,11 @@
         <mark key="^" line="13" column="18" />
         <mark key="." line="13" column="18" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.connect.js" timestamp="1539735615494">
-        <mark key="]" line="11" column="15" />
-        <mark key="." line="11" column="15" />
-        <mark key="^" line="11" column="15" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.connect.js" timestamp="1539745700862">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+        <mark key="^" line="13" column="21" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1539710427677">
         <mark key="[" line="0" column="0" />
@@ -23,23 +24,25 @@
         <mark key="^" line="89" column="26" />
         <mark key="." line="89" column="26" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.enhancers.js" timestamp="1539735737843">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="4" column="49" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.enhancers.js" timestamp="1539745432486">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="24" column="6" />
+        <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.handlers.js" timestamp="1539741943097">
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.handlers.js" timestamp="1539744325281">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="17" column="25" />
-        <mark key="." line="17" column="25" />
+        <mark key="[" line="19" column="40" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="16" />
+        <mark key="^" line="20" column="16" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.js" timestamp="1539741258500">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="13" column="18" />
-        <mark key="^" line="13" column="18" />
-        <mark key="." line="13" column="18" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.js" timestamp="1539747052921">
+        <mark key="'" line="12" column="23" />
+        <mark key="[" line="16" column="66" />
+        <mark key="]" line="16" column="67" />
+        <mark key="^" line="16" column="67" />
+        <mark key="." line="16" column="67" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-core-automation/CUnit/Tests/SellerXP/SellerTests.cs" timestamp="1539656956892">
         <mark key="[" line="43" column="8" />
@@ -60,11 +63,11 @@
       <file name="jane-seller.graphqls" timestamp="1539637644218">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.test.js" timestamp="1539630870940">
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="38" />
-        <mark key="^" line="9" column="38" />
-        <mark key="." line="9" column="38" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.test.js" timestamp="1539747363885">
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="9" column="48" />
+        <mark key="^" line="9" column="34" />
+        <mark key="." line="9" column="35" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/navigation.js" timestamp="1539634806110">
         <mark key="[" line="74" column="37" />
@@ -96,59 +99,60 @@
       <jump line="3" column="38" filename="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.handlers.js" />
       <jump line="17" column="25" filename="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.handlers.js" />
       <jump line="13" column="0" filename="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.handlers.js" />
+      <jump line="12" column="23" filename="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">KCk9Pg==</text>
+        <text>isSeller:true</text>
       </register>
       <register name="e" type="4">
         <text>Default (http://localhost:8080/graphql)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCk9Pg==</text>
+        <text>isSeller:true</text>
       </register>
       <register name="/" type="4">
-        <text>verify-email</text>
+        <text>isLoggedIn</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">eyBjb25maXJtRW1haWwsIGxvYWRpbmcsIGVycm9yIH0g</text>
+        <text encoding="base64">IGxvYWRpbmcsIGVycm9yLCBjb25maXJtRW1haWwg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZSkK</text>
+        <text encoding="base64">ICAgICAgaGVpZ2h0PSIxMDAlIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcHV0SnNvbiB9IGZyb20gJ0BqYW5lY29ycC9qYW5lLXdlYi1jbGllbnQnCg==</text>
+        <text encoding="base64">ICB1c2VyOiB7IGlzU2VsbGVyIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcGF0aCB9IGZyb20gJ3JhbWRhJwo=</text>
+        <text encoding="base64">ICB2ZXJpZmllZEVtYWlsLAp9OiBFbWFpbFZlcmlmaWVkUHJvcHMpID0+ICgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsaWZlY3ljbGUsCg==</text>
+        <text encoding="base64">ICB1c2VyOiB7IGlzU2VsbGVyIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB3aXRoU3RhdGVIYW5kbGVycywK</text>
+        <text encoding="base64">ICB1c2VyOiB7IGlzU2VsbGVyIH0sCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCB3aXRoUmVzdWx0U3RhdGUgPSB3aXRoU3RhdGVIYW5kbGVycygKICB7CiAgICB2ZXJpZmljYXRpb25TdGF0ZTogJ2xvYWRpbmcnLAogICAgdmVyaWZpZWRFbWFpbDogbnVsbCwKICAgIGVycm9yTWVzc2FnZTogbnVsbCwKICB9LAogIHsKICAgIHVwZGF0ZVN0YXRlOiAocHJldlN0YXRlKSA9PiAobmV3U3RhdGUpID0+ICh7CiAgICAgIC4uLnByZXZTdGF0ZSwKICAgICAgLi4ubmV3U3RhdGUsCiAgICB9KSwKICB9CikKZXhwb3J0IGNvbnN0IGJlZ2luVmVyaWZpY2F0aW9uID0gbGlmZWN5Y2xlKHsKICBhc3luYyBjb21wb25lbnRXaWxsTW91bnQoKTogUHJvbWlzZTx2b2lkPiB7CiAgICB0cnkgewogICAgICBjb25zdCBrZXkgPSBwYXRoKFsncHJvcHMnLCAnbWF0Y2gnLCAncGFyYW1zJywgJ3Rva2VuJ10sIHRoaXMpCiAgICAgIGNvbnN0IHJlcyA9IGF3YWl0IHB1dEpzb24oYC9wcm94eS9zZWxsZXItb3Jncy9lbWFpbHMvY29uZmlybT9rZXk9JHtrZXl9YCkKICAgICAgaWYgKHJlcykgewogICAgICAgIHRoaXMucHJvcHMudXBkYXRlU3RhdGUoewogICAgICAgICAgdmVyaWZpZWRFbWFpbDogcmVzLmVtYWlsLAogICAgICAgICAgdmVyaWZpY2F0aW9uU3RhdGU6ICdzdWNjZXNzJywKICAgICAgICB9KQogICAgICB9CiAgICB9IGNhdGNoIChlKSB7CiAgICAgIGNvbnNvbGUubG9nKGUpCiAgICAgIGlmIChlLnR5cGUgPT09ICdWRScpIHsKICAgICAgICB0aGlzLnByb3BzLnVwZGF0ZVN0YXRlKHsKICAgICAgICAgIHZlcmlmaWVkRW1haWw6IGUuZW1haWwsCiAgICAgICAgICB2ZXJpZmljYXRpb25TdGF0ZTogJ3N1Y2Nlc3MnLAogICAgICAgIH0pCiAgICAgIH0gZWxzZSB7CiAgICAgICAgdGhpcy5wcm9wcy51cGRhdGVTdGF0ZSh7CiAgICAgICAgICBlcnJvck1lc3NhZ2U6IGUubWVzc2FnZSwKICAgICAgICAgIHZlcmlmaWNhdGlvblN0YXRlOiAnZmFpbGVkJywKICAgICAgICB9KQogICAgICB9CiAgICB9CiAgfSwKfSk=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICB1c2VyOiB7IGlzU2VsbGVyOiBib29sZWFuIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBiZWdpblZlcmlmaWNhdGlvbiwK</text>
+        <text encoding="base64">ICB2ZXJpZmllZEVtYWlsOiBzdHJpbmcsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB3aXRoUmVzdWx0U3RhdGUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB3aXRoUmVzdWx0U3RhdGUsCg==</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMudXBkYXRlU3RhdGUoeyBpc0xvZ2dlZEluIH0pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>13</text>
+        <text>%s/isLoggedIn/verifiedEmail/g</text>
       </register>
     </registers>
     <search>
-      <last-search>verify-email</last-search>
-      <last-pattern>verify-email</last-pattern>
-      <last-replace>email-verify</last-replace>
-      <last-substitute>verify-email</last-substitute>
+      <last-search>isLoggedIn</last-search>
+      <last-pattern>isLoggedIn</last-pattern>
+      <last-replace>verifiedEmail</last-replace>
+      <last-substitute>isLoggedIn</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
@@ -159,12 +163,9 @@
         <entry>Employee</entry>
         <entry>employeeInvitationByInvitationKey</entry>
         <entry>verify-email</entry>
+        <entry>isLoggedIn</entry>
       </history-search>
       <history-cmd>
-        <entry>40</entry>
-        <entry>102</entry>
-        <entry>150</entry>
-        <entry>16</entry>
         <entry>48</entry>
         <entry>31</entry>
         <entry>%s/connect-account/verify-email</entry>
@@ -179,8 +180,12 @@
         <entry>6</entry>
         <entry>%s/verify-email/email-verify/g</entry>
         <entry>19</entry>
-        <entry>10</entry>
         <entry>13</entry>
+        <entry>20</entry>
+        <entry>3</entry>
+        <entry>!0</entry>
+        <entry>10</entry>
+        <entry>%s/isLoggedIn/verifiedEmail/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
