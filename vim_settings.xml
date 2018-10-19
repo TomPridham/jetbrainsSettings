@@ -99,6 +99,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-login/Jane.Login.Host/Controllers/VendorsController.cs" timestamp="1539966033366" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/team-member/team-member.handlers.js" timestamp="1539976870577">
+        <mark key="[" line="283" column="35" />
+        <mark key="]" line="283" column="37" />
+        <mark key="^" line="283" column="37" />
+        <mark key="." line="283" column="37" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="47" column="6" filename="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.js" />
