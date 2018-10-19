@@ -99,11 +99,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-login/Jane.Login.Host/Controllers/VendorsController.cs" timestamp="1539966033366" />
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/team-member/team-member.handlers.js" timestamp="1539976870577">
-        <mark key="[" line="283" column="35" />
-        <mark key="]" line="283" column="37" />
-        <mark key="^" line="283" column="37" />
-        <mark key="." line="283" column="37" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/team-member/team-member.handlers.js" timestamp="1539978079653">
+        <mark key="[" line="311" column="76" />
+        <mark key="]" line="311" column="98" />
+        <mark key="." line="311" column="98" />
+        <mark key="^" line="311" column="98" />
       </file>
     </filemarks>
     <jumps>
@@ -124,8 +124,8 @@
       <jump line="26" column="16" filename="$USER_HOME$/webstormProjects/jane-android/app/src/main/java/com/jane/android/auth/login/LoginViewModel.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgbmV3UGVybXMgPSAK</text>
       </register>
       <register name="e" type="4">
         <text>Default (http://localhost:8080/graphql)</text>
@@ -140,31 +140,31 @@
         <text encoding="base64">IGxvYWRpbmcsIGVycm9yLCBjb25maXJtRW1haWwg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaGVpZ2h0PSIxMDAlIgo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbmV3UGVybXMgPSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB1c2VyOiB7IGlzU2VsbGVyIH0sCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2ZXJpZmllZEVtYWlsLAp9OiBFbWFpbFZlcmlmaWVkUHJvcHMpID0+ICgK</text>
+        <text encoding="base64">ICAgICAgaGVpZ2h0PSIxMDAlIgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICB1c2VyOiB7IGlzU2VsbGVyIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB1c2VyOiB7IGlzU2VsbGVyIH0sCg==</text>
+        <text encoding="base64">ICB2ZXJpZmllZEVtYWlsLAp9OiBFbWFpbFZlcmlmaWVkUHJvcHMpID0+ICgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB1c2VyOiB7IGlzU2VsbGVyOiBib29sZWFuIH0sCg==</text>
+        <text encoding="base64">ICB1c2VyOiB7IGlzU2VsbGVyIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2ZXJpZmllZEVtYWlsOiBzdHJpbmcsCg==</text>
+        <text encoding="base64">ICB1c2VyOiB7IGlzU2VsbGVyIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB1c2VyOiB7IGlzU2VsbGVyOiBib29sZWFuIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMudXBkYXRlU3RhdGUoeyBpc0xvZ2dlZEluIH0pCg==</text>
+        <text encoding="base64">ICB2ZXJpZmllZEVtYWlsOiBzdHJpbmcsCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/email/emailTrimmed</text>
