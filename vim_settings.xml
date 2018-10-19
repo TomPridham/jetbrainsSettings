@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/webstormProjects/jane-login/Jane.Login.Service/Identity/VendorService.cs" timestamp="1539969234869" />
-      <file name="$USER_HOME$/webstormProjects/jane-seller-orgs/Jane.SellerOrgs.Service/Services/EmployeesService.cs" timestamp="1539974503195">
+      <file name="$USER_HOME$/webstormProjects/jane-seller-orgs/Jane.SellerOrgs.Service/Services/EmployeesService.cs" timestamp="1539984803095">
         <mark key="[" line="428" column="27" />
         <mark key="]" line="428" column="27" />
         <mark key="." line="428" column="27" />
@@ -24,12 +24,6 @@
         <mark key="^" line="16" column="67" />
         <mark key="." line="16" column="67" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-core-automation/CUnit/Tests/SellerXP/SellerTests.cs" timestamp="1539656956892">
-        <mark key="[" line="43" column="8" />
-        <mark key="]" line="43" column="92" />
-        <mark key="^" line="43" column="92" />
-        <mark key="." line="43" column="92" />
-      </file>
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.test.js" timestamp="1539747363885">
         <mark key="[" line="9" column="35" />
         <mark key="]" line="9" column="48" />
@@ -40,12 +34,6 @@
         <mark key="[" line="74" column="37" />
         <mark key="]" line="74" column="37" />
         <mark key="." line="74" column="37" />
-      </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/config/user/reducer.js" timestamp="1539741315423">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="19" column="18" />
-        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-seller-orgs/Jane.SellerOrgs.Service/Services/PermissionsService.cs" timestamp="1539975404926">
         <mark key="[" line="124" column="95" />
@@ -58,23 +46,12 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/config/user/types.js" timestamp="1539634570232">
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="13" column="18" />
-        <mark key="^" line="13" column="18" />
-        <mark key="." line="13" column="18" />
-      </file>
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/team-member/team-member.types.js" timestamp="1539981501690">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.connect.js" timestamp="1539745700862">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="13" column="21" />
-        <mark key="." line="13" column="21" />
-        <mark key="^" line="13" column="21" />
-      </file>
+      <file name="$USER_HOME$/webstormProjects/jane-seller-orgs/Jane.SellerOrgs.GraphQL/Mutations/EmployeeMutations.cs" timestamp="1539985360176" />
       <file name="/GraphQL.result.json" timestamp="1539710427677">
         <mark key="[" line="0" column="0" />
       </file>
@@ -82,12 +59,6 @@
         <mark key="[" line="28" column="92" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-legacy/VeryJane.Applications.Commerce/Views/OAuth/Index.cshtml" timestamp="1539965813673" />
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/utils/user-methods.js" timestamp="1539634690189">
-        <mark key="[" line="89" column="8" />
-        <mark key="]" line="89" column="26" />
-        <mark key="^" line="89" column="26" />
-        <mark key="." line="89" column="26" />
-      </file>
       <file name="$USER_HOME$/webstormProjects/jane-android/app/src/main/java/com/jane/android/auth/login/LoginViewModel.kt" timestamp="1539808775073">
         <mark key="'" line="26" column="16" />
         <mark key="[" line="16" column="32" />
@@ -115,6 +86,12 @@
         <mark key="]" line="236" column="21" />
         <mark key="^" line="307" column="5" />
         <mark key="." line="236" column="21" />
+      </file>
+      <file name="$USER_HOME$/webstormProjects/jane-seller-orgs/Jane.SellerOrgs.GraphQL/Models/Transitory/EmployeeInvitationRequest.cs" timestamp="1539985642791">
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="18" column="34" />
+        <mark key="^" line="19" column="18" />
+        <mark key="." line="18" column="34" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/team-member/team-member.enhancers.js" timestamp="1539983604348">
         <mark key="[" line="83" column="0" />
@@ -146,14 +123,14 @@
       <jump line="312" column="45" filename="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/team-member/team-member.handlers.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb25DYXRlZ29yaWVzOiBbXSwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="e" type="4">
         <text>Default (http://localhost:8080/graphql)</text>
       </register>
       <register name="-" type="4">
-        <text>, ownProps = {}</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">c3RyaW5nW10vQXJyYXk8c3RyaW5nPi9n</text>
