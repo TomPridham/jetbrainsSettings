@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/webstormProjects/jane-login/Jane.Login.Service/Identity/VendorService.cs" timestamp="1539966423076" />
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/config/user/types.js" timestamp="1539634570232">
         <mark key="[" line="12" column="19" />
         <mark key="]" line="13" column="18" />
@@ -21,7 +22,7 @@
       <file name="$USER_HOME$/webstormProjects/jane-android/app/src/main/java/com/jane/android/utils/StringUtils.kt" timestamp="1539800342706">
         <mark key="[" line="28" column="92" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-legacy/VeryJane.Applications.Commerce/Views/OAuth/Index.cshtml" timestamp="1539964735206" />
+      <file name="$USER_HOME$/webstormProjects/jane-legacy/VeryJane.Applications.Commerce/Views/OAuth/Index.cshtml" timestamp="1539965813673" />
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/utils/user-methods.js" timestamp="1539634690189">
         <mark key="[" line="89" column="8" />
         <mark key="]" line="89" column="26" />
@@ -35,6 +36,7 @@
         <mark key="^" line="17" column="33" />
         <mark key="." line="17" column="33" />
       </file>
+      <file name="$USER_HOME$/webstormProjects/jane-login/Jane.Login.Service/Identity/VendorRepository.cs" timestamp="1539966666833" />
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.enhancers.js" timestamp="1539745432486">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -79,11 +81,7 @@
         <mark key="^" line="9" column="34" />
         <mark key="." line="9" column="35" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/navigation.js" timestamp="1539634806110">
-        <mark key="[" line="74" column="37" />
-        <mark key="]" line="74" column="37" />
-        <mark key="." line="74" column="37" />
-      </file>
+      <file name="$USER_HOME$/webstormProjects/jane-login/Jane.Login.Host/Controllers/VendorsController.cs" timestamp="1539966033366" />
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/config/user/reducer.js" timestamp="1539741315423">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
