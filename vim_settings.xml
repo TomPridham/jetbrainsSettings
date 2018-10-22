@@ -3,13 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/webstormProjects/jane-login/Jane.Login.Service/Identity/VendorService.cs" timestamp="1539969234869" />
       <file name="$USER_HOME$/webstormProjects/jane-seller-orgs/Jane.SellerOrgs.Service/Services/EmployeesService.cs" timestamp="1539984803095">
         <mark key="[" line="428" column="27" />
         <mark key="]" line="428" column="27" />
         <mark key="." line="428" column="27" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-login/Jane.Login.Service/Identity/VendorRepository.cs" timestamp="1539966666833" />
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.handlers.js" timestamp="1539744325281">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="19" column="40" />
@@ -29,6 +27,12 @@
         <mark key="]" line="9" column="48" />
         <mark key="^" line="9" column="34" />
         <mark key="." line="9" column="35" />
+      </file>
+      <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/cloudinary-image-upload/index.js" timestamp="1540231299256">
+        <mark key="'" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/webstormProjects/jane-masada-web/public/index.html" timestamp="1540230260756">
+        <mark key="[" line="9" column="12" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/navigation.js" timestamp="1539634806110">
         <mark key="[" line="74" column="37" />
@@ -51,20 +55,24 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller-orgs/Jane.SellerOrgs.GraphQL/Mutations/EmployeeMutations.cs" timestamp="1539985360176" />
-      <file name="/GraphQL.result.json" timestamp="1539710427677">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/cloudinary-image-upload/cloudinary-image-upload.js" timestamp="1540232438455">
+        <mark key="e" line="7" column="30" />
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="16" column="18" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-android/app/src/main/java/com/jane/android/utils/StringUtils.kt" timestamp="1539800342706">
-        <mark key="[" line="28" column="92" />
-      </file>
-      <file name="$USER_HOME$/webstormProjects/jane-legacy/VeryJane.Applications.Commerce/Views/OAuth/Index.cshtml" timestamp="1539965813673" />
       <file name="$USER_HOME$/webstormProjects/jane-android/app/src/main/java/com/jane/android/auth/login/LoginViewModel.kt" timestamp="1539808775073">
         <mark key="'" line="26" column="16" />
         <mark key="[" line="16" column="32" />
         <mark key="]" line="17" column="33" />
         <mark key="^" line="17" column="33" />
         <mark key="." line="17" column="33" />
+      </file>
+      <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/banner/banner.js" timestamp="1540230743107">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.enhancers.js" timestamp="1539745432486">
         <mark key="[" line="29" column="0" />
@@ -76,10 +84,6 @@
         <mark key="]" line="373" column="0" />
         <mark key="." line="373" column="0" />
       </file>
-      <file name="jane-seller.graphqls" timestamp="1539637644218">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/webstormProjects/jane-login/Jane.Login.Host/Controllers/VendorsController.cs" timestamp="1539966033366" />
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/team-member/team-member.handlers.js" timestamp="1539984049427">
         <mark key="'" line="301" column="45" />
         <mark key="[" line="236" column="21" />
@@ -116,16 +120,17 @@
       <jump line="25" column="8" filename="$USER_HOME$/webstormProjects/jane-android/app/src/main/java/com/jane/android/auth/login/LoginViewModel.kt" />
       <jump line="26" column="16" filename="$USER_HOME$/webstormProjects/jane-android/app/src/main/java/com/jane/android/auth/login/LoginViewModel.kt" />
       <jump line="312" column="45" filename="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/team-member/team-member.handlers.js" />
+      <jump line="0" column="13" filename="$USER_HOME$/webstormProjects/jane-masada-web/src/components/cloudinary-image-upload/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">PGNsb3VkIG5hbWU+Jw==</text>
       </register>
       <register name="e" type="4">
         <text>Default (http://localhost:8080/graphql)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">PGNsb3VkIG5hbWU+Jw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">c3RyaW5nW10vQXJyYXk8c3RyaW5nPi9n</text>
@@ -134,36 +139,37 @@
         <text encoding="base64">ICAgICRzdWJzY3JpcHRpb25zOiBbRW1haWxTdWJzY3JpcHRpb25DYXRlZ29yeSFdIQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb25DYXRlZ29yaWVzOiBbXSwK</text>
+        <text encoding="base64">ICAgICAgcGxhY2Vob2xkZXI9IlNvdXJjZSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb25DYXRlZ29yaWVzLAo=</text>
+        <text encoding="base64">ICAgICAgdHlwZT0idGV4dCJkZAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN1YnNjcmlwdGlvbkNhdGVnb3JpZXMsCg==</text>
+      <register name="3" type="4">
+        <text>TcextInput
+      type=&quot;text&quot;
+      placeholder=&quot;Source&quot;
+      value={item.src}
+      onChange={change('src')}
+      disabled={item.persisted}
+    /</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoInVwbG9hZF93aWRnZXRfb3BlbmVyIikuYWRkRXZlbnRMaXN0ZW5lcigiY2xpY2siLCBmdW5jdGlvbigpIHsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICBjb25zdCBzdWJzY3JpcHRpb25DYXRlZ29yaWVzID0gWwogICAgICAgIHsgY2F0ZWdvcnlFbnVtOiAnYXN0JyB9LAogICAgICAgIHsgY2F0ZWdvcnlFbnVtOiAnYmFzdCcgfSwKICAgICAgICB7IGNhdGVnb3J5RW51bTogJ2Nhc3QnIH0sCiAgICAgIF0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb25DYXRlZ29yaWVzOiBbXSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb25DYXRlZ29yaWVzLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN1YnNjcmlwdGlvbkNhdGVnb3JpZXM6IFsKICAgICAgewogICAgICAgIGNhdGVnb3J5RW51bTogJ1NBSURfQ0FURUdPUlknLAogICAgICAgIGVtYWlsU3Vic2NyaXB0aW9uQ2F0ZWdvcnlUaXRsZTogJ1NhaWQgQ2F0ZWdvcnknLAogICAgICAgIGVtYWlsU3Vic2NyaXB0aW9uQ2F0ZWdvcnlEZXNjcmlwdGlvbjoKICAgICAgICAgICdhbiBhcHQgZGVzY3JpcHRpb24gb2Ygc2FpZCBjYXRlZ29yeScsCiAgICAgICAgZW1haWxTdWJzY3JpcHRpb25DYXRlZ29yeUlkOiAwLAogICAgICAgIHN1YnNjcmlwdGlvbnM6IFtdLAogICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHN1YnNjcmlwdGlvbkNhdGVnb3JpZXMsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="9" type="4">
-        <text>emailSubscriptions {
-          id
-          subscriptionCategory {
-            categoryEnum
-          }
-        }</text>
+        <text encoding="base64">ICAgICBjb25zdCBzdWJzY3JpcHRpb25DYXRlZ29yaWVzID0gWwogICAgICAgIHsgY2F0ZWdvcnlFbnVtOiAnYXN0JyB9LAogICAgICAgIHsgY2F0ZWdvcnlFbnVtOiAnYmFzdCcgfSwKICAgICAgICB7IGNhdGVnb3J5RW51bTogJ2Nhc3QnIH0sCiAgICAgIF0=</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
