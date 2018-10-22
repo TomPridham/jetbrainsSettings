@@ -23,12 +23,14 @@
         <mark key="." line="16" column="67" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-catalog/Jane.Catalog.Service/Storefront/StorefrontDealService.cs" timestamp="1540232878169" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/.editorconfig" timestamp="1540236919874" />
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.test.js" timestamp="1539747363885">
         <mark key="[" line="9" column="35" />
         <mark key="]" line="9" column="48" />
         <mark key="^" line="9" column="34" />
         <mark key="." line="9" column="35" />
       </file>
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/seller-signup/components/in-review/in-review.js" timestamp="1540237122554" />
       <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/cloudinary-image-upload/index.js" timestamp="1540231299256">
         <mark key="'" line="0" column="13" />
       </file>
@@ -75,6 +77,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/seller-signup/components/shared/shared.handlers.js" timestamp="1540237151541" />
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.enhancers.js" timestamp="1539745432486">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
