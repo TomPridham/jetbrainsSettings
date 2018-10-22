@@ -77,7 +77,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/seller-signup/components/shared/shared.handlers.js" timestamp="1540237151541" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/seller-signup/components/shared/shared.handlers.js" timestamp="1540237535379" />
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.enhancers.js" timestamp="1539745432486">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -101,6 +101,7 @@
         <mark key="^" line="19" column="18" />
         <mark key="." line="18" column="34" />
       </file>
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/components/images/http.js" timestamp="1540237768645" />
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/team-member/team-member.form.js" timestamp="1539983651463">
         <mark key="[" line="61" column="23" />
         <mark key="]" line="64" column="0" />
