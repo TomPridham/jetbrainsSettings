@@ -9,11 +9,6 @@
         <mark key="]" line="50" column="47" />
         <mark key="." line="50" column="47" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/legacy/scripts/dashboard/controllers/promo-banner.js" timestamp="1540325124946">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="24" />
-        <mark key="." line="8" column="24" />
-      </file>
       <file name="$USER_HOME$/webstormProjects/jane-catalog/Jane.Catalog.Service/Storefront/StorefrontDealService.cs" timestamp="1540232878169" />
       <file name="$USER_HOME$/webstormProjects/jane-seller/.editorconfig" timestamp="1540236919874" />
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.test.js" timestamp="1540310847077">
@@ -32,12 +27,7 @@
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-seller/ops/post-merge.sh" timestamp="1540312913110" />
       <file name="$USER_HOME$/webstormProjects/jane-catalog/Jane.Catalog.Service/Resources/ResourceService.cs" timestamp="1540247251048" />
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/legacy/views/partials/dashboard/promo-banner.html" timestamp="1540325317875">
-        <mark key="[" line="28" column="106" />
-        <mark key="]" line="28" column="106" />
-        <mark key="." line="28" column="106" />
-        <mark key="^" line="9" column="61" />
-      </file>
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/legacy/views/partials/dashboard/promo-banner.html" timestamp="1540332422252" />
       <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/banner/banner.js" timestamp="1540253801419">
         <mark key="'" line="3" column="20" />
         <mark key="]" line="3" column="17" />
