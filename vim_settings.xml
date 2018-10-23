@@ -52,6 +52,12 @@
         <mark key="^" line="16" column="18" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-catalog/Jane.Catalog.Service/Resources/ResourceService.cs" timestamp="1540247251048" />
+      <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/banner/banner.js" timestamp="1540253801419">
+        <mark key="'" line="129" column="20" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+      </file>
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/seller-signup/components/shared/shared.handlers.js" timestamp="1540237535379" />
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.enhancers.js" timestamp="1539745432486">
         <mark key="[" line="29" column="0" />
@@ -64,6 +70,12 @@
         <mark key="[" line="373" column="0" />
         <mark key="]" line="373" column="0" />
         <mark key="." line="373" column="0" />
+      </file>
+      <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/banner/banner.test.js" timestamp="1540253990490">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="17" column="8" />
+        <mark key="." line="17" column="8" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-seller-orgs/Jane.SellerOrgs.GraphQL/Models/Transitory/EmployeeInvitationRequest.cs" timestamp="1539985642791">
         <mark key="[" line="18" column="34" />
@@ -96,16 +108,21 @@
       <jump line="26" column="16" filename="$USER_HOME$/webstormProjects/jane-android/app/src/main/java/com/jane/android/auth/login/LoginViewModel.kt" />
       <jump line="312" column="45" filename="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/team-member/team-member.handlers.js" />
       <jump line="0" column="13" filename="$USER_HOME$/webstormProjects/jane-masada-web/src/components/cloudinary-image-upload/index.js" />
+      <jump line="35" column="62" filename="$USER_HOME$/webstormProjects/jane-masada-web/src/components/banner/banner.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/webstormProjects/jane-masada-web/src/components/banner/banner.js" />
+      <jump line="122" column="20" filename="$USER_HOME$/webstormProjects/jane-masada-web/src/components/banner/banner.js" />
+      <jump line="17" column="8" filename="$USER_HOME$/webstormProjects/jane-masada-web/src/components/banner/banner.test.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/webstormProjects/jane-masada-web/src/components/banner/banner.test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PGNsb3VkIG5hbWU+Jw==</text>
+        <text encoding="base64">IGNvbXBvc2U=</text>
       </register>
       <register name="e" type="4">
         <text>Default (http://localhost:8080/graphql)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PGNsb3VkIG5hbWU+Jw==</text>
+        <text encoding="base64">IGNvbXBvc2U=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">c3RyaW5nW10vQXJyYXk8c3RyaW5nPi9n</text>
@@ -113,13 +130,22 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICRzdWJzY3JpcHRpb25zOiBbRW1haWxTdWJzY3JpcHRpb25DYXRlZ29yeSFdIQo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">KQoKICAgIA==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ZmlsZW5hbWUKICAgICAg</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0eXBlPSJidXR0b24iCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgcGxhY2Vob2xkZXI9IlNvdXJjZSIK</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgdHlwZT0idGV4dCJkZAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>TcextInput
       type=&quot;text&quot;
       placeholder=&quot;Source&quot;
@@ -128,23 +154,14 @@
       disabled={item.persisted}
     /</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoInVwbG9hZF93aWRnZXRfb3BlbmVyIikuYWRkRXZlbnRMaXN0ZW5lcigiY2xpY2siLCBmdW5jdGlvbigpIHsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb25DYXRlZ29yaWVzOiBbXSwK</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb25DYXRlZ29yaWVzLAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN1YnNjcmlwdGlvbkNhdGVnb3JpZXMsCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICBjb25zdCBzdWJzY3JpcHRpb25DYXRlZ29yaWVzID0gWwogICAgICAgIHsgY2F0ZWdvcnlFbnVtOiAnYXN0JyB9LAogICAgICAgIHsgY2F0ZWdvcnlFbnVtOiAnYmFzdCcgfSwKICAgICAgICB7IGNhdGVnb3J5RW51bTogJ2Nhc3QnIH0sCiAgICAgIF0=</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
