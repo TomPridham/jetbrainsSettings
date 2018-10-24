@@ -16,16 +16,10 @@
         <mark key="]" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/banner/banner-service.js" timestamp="1540335790718">
-        <mark key="[" line="2" column="35" />
+      <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/banner/banner-service.js" timestamp="1540406410040">
+        <mark key="[" line="18" column="27" />
         <mark key="]" line="2" column="35" />
         <mark key="." line="2" column="35" />
-      </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.js" timestamp="1540310395402">
-        <mark key="'" line="12" column="23" />
-        <mark key="[" line="50" column="47" />
-        <mark key="]" line="50" column="47" />
-        <mark key="." line="50" column="47" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/mobile-search-banner/mobile-search-banner-service.js" timestamp="1540335683643">
         <mark key="[" line="2" column="28" />
@@ -43,24 +37,23 @@
         <mark key="]" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/banner/banner.test.js" timestamp="1540253990490">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="17" column="8" />
-        <mark key="." line="17" column="8" />
+      <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/feeds/feeds.js" timestamp="1540406226023">
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="686" column="44" />
+        <mark key="." line="686" column="44" />
+        <mark key="^" line="686" column="44" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/user/services.js" timestamp="1540335807863">
-        <mark key="[" line="0" column="25" />
+      <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/user/services.js" timestamp="1540406371318">
+        <mark key="[" line="3" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.test.js" timestamp="1540310847077">
-        <mark key="^" line="6" column="1" />
-      </file>
-      <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/feeds/feeds-service.js" timestamp="1540335797896">
-        <mark key="[" line="2" column="35" />
-        <mark key="]" line="2" column="35" />
-        <mark key="." line="2" column="35" />
+      <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/feeds/feeds-service.js" timestamp="1540406389400">
+        <mark key="'" line="99" column="30" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="98" column="27" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/utils/index.js" timestamp="1540335618882">
         <mark key="b" line="2" column="57" />
@@ -85,13 +78,18 @@
         <mark key="]" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/ad/ad-service.js" timestamp="1540335816142">
-        <mark key="[" line="2" column="47" />
+      <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/ad/ad-service.js" timestamp="1540406438650">
+        <mark key="[" line="51" column="34" />
         <mark key="]" line="2" column="47" />
         <mark key="." line="2" column="47" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-components-og/src/text-input/text-input.js" timestamp="1540403486071">
         <mark key="[" line="110" column="40" />
+      </file>
+      <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/services/content.js" timestamp="1540404787263">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/notification-blast/notification-blast-service.js" timestamp="1540335724343">
         <mark key="[" line="0" column="26" />
@@ -123,16 +121,17 @@
       <jump line="17" column="8" filename="$USER_HOME$/webstormProjects/jane-masada-web/src/components/banner/banner.test.js" />
       <jump line="4" column="0" filename="$USER_HOME$/webstormProjects/jane-masada-web/src/components/banner/banner.test.js" />
       <jump line="67" column="15" filename="$USER_HOME$/webstormProjects/jane-seller/src/seller/components/images/http.js" />
+      <jump line="99" column="30" filename="$USER_HOME$/webstormProjects/jane-masada-web/src/components/feeds/feeds-service.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>../../utils</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZWFsVXJsLCBmZWVkZGQpCg==</text>
       </register>
       <register name="e" type="4">
         <text>Default (http://localhost:8080/graphql)</text>
       </register>
       <register name="-" type="4">
-        <text>../../utils</text>
+        <text>../utils</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheVw+</text>
@@ -141,31 +140,31 @@
         <text encoding="base64">ICB7CiAgICBuYW1lOiAnZGVmYXVsdCcsCiAgICBjb21wb25lbnQ6ICgKICAgICAgPEVtYWlsVmVyaWZ5IHVzZXI9e3sgaXNTZWxsZXI6IHRydWUgfX0gdmVyaWZpZWRFbWFpbD0icnVzc2VsbEBqYW5lLmNvbSIgLz4KICAgICksCiAgfSwKICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZWFsVXJsLCBmZWVkZGQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZWQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzdGF0dXM6IG51bWJlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBvaz86IGJvb2xlYW4sCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dHlwZSBSZXNwb25zZSA9IHsK</text>
+        <text encoding="base64">ICBzdGF0dXM6IG51bWJlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLXJlYWN0LXJlbW92ZS1wcm9wLWR0eXBlcyI6ICIwLjQuMTgiLAo=</text>
+        <text encoding="base64">ICBvaz86IGJvb2xlYW4sCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">dHlwZSBSZXNwb25zZSA9IHsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLXJlYWN0LXJlbW92ZS1wcm9wLWR0eXBlcyI6ICIwLjQuMTgiLAo=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICJwcm9wLXR5cGVzIjogIjE1LjYuMiIsCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICB7CiAgICBuYW1lOiAnZGVmYXVsdCcsCiAgICBjb21wb25lbnQ6ICgKICAgICAgPEVtYWlsVmVyaWZ5IHVzZXI9e3sgaXNTZWxsZXI6IHRydWUgfX0gdmVyaWZpZWRFbWFpbD0icnVzc2VsbEBqYW5lLmNvbSIgLz4KICAgICksCiAgfSw=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgPExpbmsgc3R5bGU9e3sgbWFyZ2luVG9wOiAnNDhweCcgfX0gdG89Ii9kYXNoYm9hcmQiPgogICAgICAgICAgPEJ1dHRvbiBjb2xvcj0icHJpbWFyeSI+T2theSwgVGFrZSBNZSBIb21lPC9CdXR0b24+CiAgICAgICAgPC9MaW5rPgogICAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
