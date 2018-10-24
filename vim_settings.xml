@@ -9,6 +9,11 @@
         <mark key="]" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/notifications.js" timestamp="1540420548845">
+        <mark key="[" line="31" column="23" />
+        <mark key="]" line="31" column="23" />
+        <mark key="." line="31" column="23" />
+      </file>
       <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/search-content/search-content-service.js" timestamp="1540408816031">
         <mark key="[" line="43" column="37" />
         <mark key="]" line="2" column="26" />
@@ -36,28 +41,6 @@
         <mark key="]" line="146" column="6" />
         <mark key="." line="146" column="6" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/user/services.js" timestamp="1540406371318">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
-      </file>
-      <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/utils/index.js" timestamp="1540335618882">
-        <mark key="b" line="2" column="57" />
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="9" column="30" />
-        <mark key="^" line="9" column="30" />
-        <mark key="." line="9" column="30" />
-      </file>
-      <file name="$USER_HOME$/webstormProjects/jane-components-og/src/text-input/text-input.js" timestamp="1540403486071">
-        <mark key="[" line="110" column="40" />
-      </file>
-      <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/notification-blast/notification-blast-service.js" timestamp="1540408760816">
-        <mark key="[" line="16" column="23" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-      </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/docker-compose.yml" timestamp="1540418115917" />
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/routes.js" timestamp="1540419016400" />
       <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/mobile-feed-content/mobile-feed-content-service.js" timestamp="1540408668520">
         <mark key="[" line="90" column="42" />
         <mark key="]" line="2" column="26" />
@@ -74,12 +57,29 @@
         <mark key="]" line="17" column="8" />
         <mark key="." line="17" column="8" />
       </file>
+      <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/user/services.js" timestamp="1540406371318">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+      </file>
       <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/feeds/feeds-service.js" timestamp="1540406389400">
         <mark key="'" line="99" column="30" />
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
         <mark key="^" line="98" column="27" />
+      </file>
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/components/notification-dropdown/notification-dropdown.js" timestamp="1540420940253">
+        <mark key="[" line="93" column="26" />
+        <mark key="]" line="93" column="26" />
+        <mark key="." line="93" column="26" />
+      </file>
+      <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/utils/index.js" timestamp="1540335618882">
+        <mark key="b" line="2" column="57" />
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="9" column="30" />
+        <mark key="^" line="9" column="30" />
+        <mark key="." line="9" column="30" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-masada-web/package.json" timestamp="1540335295219">
         <mark key="[" line="64" column="0" />
@@ -91,6 +91,9 @@
         <mark key="[" line="3" column="25" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
+      </file>
+      <file name="$USER_HOME$/webstormProjects/jane-components-og/src/text-input/text-input.js" timestamp="1540403486071">
+        <mark key="[" line="110" column="40" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/mobile-banner/mobile-banner-service.js" timestamp="1540408889719">
         <mark key="[" line="29" column="74" />
@@ -106,6 +109,11 @@
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/notification-blast/notification-blast-service.js" timestamp="1540408760816">
+        <mark key="[" line="16" column="23" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -137,13 +145,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ch</text>
+        <text>center</text>
       </register>
       <register name="e" type="4">
         <text>Default (http://localhost:8080/graphql)</text>
       </register>
       <register name="-" type="4">
-        <text>ch</text>
+        <text>center</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheVw+</text>
@@ -152,31 +160,31 @@
         <text encoding="base64">ICB7CiAgICBuYW1lOiAnZGVmYXVsdCcsCiAgICBjb21wb25lbnQ6ICgKICAgICAgPEVtYWlsVmVyaWZ5IHVzZXI9e3sgaXNTZWxsZXI6IHRydWUgfX0gdmVyaWZpZWRFbWFpbD0icnVzc2VsbEBqYW5lLmNvbSIgLz4KICAgICksCiAgfSwKICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5zdGF0ZS5mZWVkKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZWFsVXJsLCBmZWVkZGQpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZWQpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5zdGF0ZS5mZWVkKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZWFsVXJsLCBmZWVkZGQpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZWQpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdGF0dXM6IG51bWJlcgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBvaz86IGJvb2xlYW4sCg==</text>
+        <text encoding="base64">ICBzdGF0dXM6IG51bWJlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHlwZSBSZXNwb25zZSA9IHsK</text>
+        <text encoding="base64">ICBvaz86IGJvb2xlYW4sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLXJlYWN0LXJlbW92ZS1wcm9wLWR0eXBlcyI6ICIwLjQuMTgiLAo=</text>
+        <text encoding="base64">dHlwZSBSZXNwb25zZSA9IHsK</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
