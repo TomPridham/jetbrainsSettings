@@ -69,10 +69,11 @@
         <mark key="." line="98" column="0" />
         <mark key="^" line="98" column="27" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/components/notification-dropdown/notification-dropdown.js" timestamp="1540420940253">
-        <mark key="[" line="93" column="26" />
-        <mark key="]" line="93" column="26" />
-        <mark key="." line="93" column="26" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/components/notification-dropdown/notification-dropdown.js" timestamp="1540422096301">
+        <mark key="'" line="25" column="57" />
+        <mark key="]" line="25" column="34" />
+        <mark key="^" line="25" column="34" />
+        <mark key="." line="25" column="34" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/utils/index.js" timestamp="1540335618882">
         <mark key="b" line="2" column="57" />
@@ -142,60 +143,61 @@
       <jump line="67" column="15" filename="$USER_HOME$/webstormProjects/jane-seller/src/seller/components/images/http.js" />
       <jump line="99" column="30" filename="$USER_HOME$/webstormProjects/jane-masada-web/src/components/feeds/feeds-service.js" />
       <jump line="50" column="36" filename="$USER_HOME$/webstormProjects/jane-masada-web/src/components/feed-content/feed-content-service.js" />
+      <jump line="25" column="57" filename="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/components/notification-dropdown/notification-dropdown.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>center</text>
+        <text>calc(50% - 140px)'</text>
       </register>
       <register name="e" type="4">
         <text>Default (http://localhost:8080/graphql)</text>
       </register>
       <register name="-" type="4">
-        <text>center</text>
+        <text>calc(50% - 140px)'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBcnJheVw+</text>
+        <text>right</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB7CiAgICBuYW1lOiAnZGVmYXVsdCcsCiAgICBjb21wb25lbnQ6ICgKICAgICAgPEVtYWlsVmVyaWZ5IHVzZXI9e3sgaXNTZWxsZXI6IHRydWUgfX0gdmVyaWZpZWRFbWFpbD0icnVzc2VsbEBqYW5lLmNvbSIgLz4KICAgICksCiAgfSwKICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBtYXhXaWR0aD0iMTQwcHgiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5zdGF0ZS5mZWVkKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZWFsVXJsLCBmZWVkZGQpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZWQpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5zdGF0ZS5mZWVkKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZWFsVXJsLCBmZWVkZGQpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZWQpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzdGF0dXM6IG51bWJlcgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBvaz86IGJvb2xlYW4sCg==</text>
+        <text encoding="base64">ICBzdGF0dXM6IG51bWJlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dHlwZSBSZXNwb25zZSA9IHsK</text>
+        <text encoding="base64">ICBvaz86IGJvb2xlYW4sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>17</text>
+        <text>s/right/left/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBcnJheVw+</last-search>
+      <last-search>right</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBcnJheVw+</last-pattern>
-      <last-replace />
-      <last-substitute encoding="base64">c3RyaW5nW10vQXJyYXk8c3RyaW5nPi9n</last-substitute>
+      <last-pattern>right</last-pattern>
+      <last-replace>left</last-replace>
+      <last-substitute>right</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -211,10 +213,10 @@
         <entry>Account Owner</entry>
         <entry encoding="base64">c3RyaW5nW10vQXJyYXk8c3RyaW5nPi9n</entry>
         <entry encoding="base64">XDxBcnJheVw+</entry>
+        <entry>/right/left</entry>
+        <entry>right</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/url/uri/g</entry>
-        <entry>v/url/d</entry>
         <entry>g/url/d</entry>
         <entry>%s/Employee/Email/g</entry>
         <entry>%s/employeeInvitationByInvitationKey/confirmEmail/g</entry>
@@ -233,6 +235,8 @@
         <entry>%s/Account Owner/OWNER/g</entry>
         <entry encoding="base64">JXMvc3RyaW5nW10vQXJyYXk8c3RyaW5nPi9n</entry>
         <entry>17</entry>
+        <entry>s%/right/left</entry>
+        <entry>s/right/left/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
