@@ -55,12 +55,6 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/notifications.connect.js" timestamp="1540438219675">
-        <mark key="[" line="17" column="22" />
-        <mark key="]" line="13" column="26" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/notification-blast/notification-blast-service.js" timestamp="1540408760816">
         <mark key="[" line="16" column="23" />
         <mark key="]" line="0" column="26" />
@@ -76,7 +70,6 @@
         <mark key="[" line="2" column="39" />
         <mark key="]" line="2" column="39" />
         <mark key="." line="2" column="39" />
-        <mark key="^" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-accounts/Jane.Accounts.Service/Notifications/EFNotificationRepository.cs" timestamp="1540435940211">
         <mark key="[" line="148" column="21" />
