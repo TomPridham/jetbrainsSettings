@@ -25,7 +25,7 @@
         <mark key="." line="2" column="35" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-accounts/Jane.Accounts.Service/Notifications/NotificationService.cs" timestamp="1540430310104" />
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/notifications.handlers.js" timestamp="1540438136930">
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/notifications.handlers.js" timestamp="1540572280422">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
@@ -71,8 +71,10 @@
         <mark key="]" line="2" column="39" />
         <mark key="." line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-accounts/Jane.Accounts.Service/Notifications/EFNotificationRepository.cs" timestamp="1540435940211">
-        <mark key="[" line="148" column="21" />
+      <file name="$USER_HOME$/webstormProjects/jane-accounts/Jane.Accounts.Service/Notifications/EFNotificationRepository.cs" timestamp="1540572398109">
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="." line="161" column="0" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/feeds/feeds.js" timestamp="1540406643349">
         <mark key="[" line="686" column="0" />
@@ -150,14 +152,14 @@
       <jump line="17" column="51" filename="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/notifications.handlers.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHN0eWxlPXt7dGV4dERlY29yYXRpb246J25vbmUnfX0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCXJldHVybiBHZXROb3RpZmljYXRpb25Db3VudChhY2NvdW50R3VpZCwgTm90aWZpY2F0aW9uUmVhZFN0YXR1cy5SZWFkKQo=</text>
       </register>
       <register name="e" type="4">
         <text>Default (http://localhost:8080/graphql)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0eWxlPXt7dGV4dERlY29yYXRpb246J25vbmUnfX0=</text>
+        <text>async</text>
       </register>
       <register name="/" type="4">
         <text>right</text>
@@ -166,31 +168,31 @@
         <text encoding="base64">ICAgICAgc2V0VW5yZWFkRXJyb3IoJ1NvcnJ5LCBidXQgd2UgY291bGQgbm90IGdldCBub3RpZmljYXRpb25zIGF0IHRoaXMgdGltZS4nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUZXh0IGNvbG9yPSJwcmltYXJ5Ij5DbGVhciBBbGw8L1RleHQ+Cg==</text>
+        <text encoding="base64">CQkJCXJldHVybiBHZXROb3RpZmljYXRpb25Db3VudChhY2NvdW50R3VpZCwgTm90aWZpY2F0aW9uUmVhZFN0YXR1cy5SZWFkKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB3aXRoUmVhZEZldGNoSGFuZGxlcnMsCiAgd2l0aFVucmVhZEZldGNoSGFuZGxlcnMsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxUZXh0IGNvbG9yPSJwcmltYXJ5Ij5DbGVhciBBbGw8L1RleHQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICwK</text>
+        <text encoding="base64">ICB3aXRoUmVhZEZldGNoSGFuZGxlcnMsCiAgd2l0aFVucmVhZEZldGNoSGFuZGxlcnMsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0LGRkCg==</text>
+        <text encoding="base64">ICAgICwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQuZXJyb3IoIlNvcnJ5LiBXZSBjb3VsZG4ndCBjaGVjayB5b3VyIG5vdGlmaWNhdGlvbnMgYXQgdGhpcyB0aW1lLiIpCg==</text>
+        <text encoding="base64">ICAgIGFsZXJ0LGRkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEVycm9yKCdidWJibGUnKQo=</text>
+        <text encoding="base64">ICAgICAgYWxlcnQuZXJyb3IoIlNvcnJ5LiBXZSBjb3VsZG4ndCBjaGVjayB5b3VyIG5vdGlmaWNhdGlvbnMgYXQgdGhpcyB0aW1lLiIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFyZXMub2spIHsKICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ2J1YmJsZScpCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEVycm9yKCdidWJibGUnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy9UT0RPIGRvIHNvbWV0aGluZyBoZXJlCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCFyZXMub2spIHsKICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ2J1YmJsZScpCiAgICAgIH0K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgcG9zdEpzb24KIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgLy9UT0RPIGRvIHNvbWV0aGluZyBoZXJlCg==</text>
       </register>
       <register name=":" type="4">
         <text>%sort</text>
