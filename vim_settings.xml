@@ -27,11 +27,11 @@
       <file name="$USER_HOME$/webstormProjects/jane-accounts/Jane.Accounts.Service/Notifications/NotificationService.cs" timestamp="1540573655496">
         <mark key="[" line="71" column="60" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/notifications.handlers.js" timestamp="1540833844262">
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="16" column="11" />
-        <mark key="." line="16" column="11" />
-        <mark key="^" line="16" column="11" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/notifications.handlers.js" timestamp="1540840386346">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+        <mark key="." line="10" column="24" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.js" timestamp="1540310395402">
         <mark key="'" line="12" column="23" />
@@ -58,11 +58,10 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/notifications.connect.js" timestamp="1540833934205">
-        <mark key="[" line="18" column="22" />
-        <mark key="]" line="3" column="49" />
-        <mark key="^" line="3" column="49" />
-        <mark key="." line="3" column="49" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/notifications.connect.js" timestamp="1540840587253">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/notification-blast/notification-blast-service.js" timestamp="1540408760816">
         <mark key="[" line="16" column="23" />
@@ -115,8 +114,11 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/notifications.types.js" timestamp="1540833946817">
-        <mark key="[" line="23" column="32" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/notifications.types.js" timestamp="1540840457973">
+        <mark key="[" line="30" column="28" />
+        <mark key="]" line="30" column="35" />
+        <mark key="." line="30" column="35" />
+        <mark key="^" line="30" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -150,14 +152,14 @@
       <jump line="17" column="51" filename="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/notifications.handlers.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>totalRead</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gT1JERVIgTUFUVEVSUyBIRVJFLCBET05UIFJFT1JERVIK</text>
       </register>
       <register name="e" type="4">
         <text>Default (http://localhost:8080/graphql)</text>
       </register>
       <register name="-" type="4">
-        <text>totalRead</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>right</text>
@@ -166,34 +168,34 @@
         <text encoding="base64">ICAgICAgc2V0VW5yZWFkRXJyb3IoJ1NvcnJ5LCBidXQgd2UgY291bGQgbm90IGdldCBub3RpZmljYXRpb25zIGF0IHRoaXMgdGltZS4nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBhd2FpdCBHZXROb3RpZmljYXRpb25Db3VudChhY2NvdW50R3VpZCwgTm90aWZpY2F0aW9uUmVhZFN0YXR1cy5SZWFkKTsK</text>
+        <text encoding="base64">Ly8gT1JERVIgTUFUVEVSUyBIRVJFLCBET05UIFJFT1JERVIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBHZXROb3RpZmljYXRpb25Db3VudChhY2NvdW50R3VpZCwgTm90aWZpY2F0aW9uUmVhZFN0YXR1cy5SZWFkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUZXh0IGNvbG9yPSJwcmltYXJ5Ij5DbGVhciBBbGw8L1RleHQ+Cg==</text>
+        <text encoding="base64">ICB3aXRoQ2xlYXJBbGwsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB3aXRoUmVhZEZldGNoSGFuZGxlcnMsCiAgd2l0aFVucmVhZEZldGNoSGFuZGxlcnMsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICwK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcmVhZE5vdGlmaWNhdGlvbnMgPSBbLi4udW5yZWFkLCAuLi5yZWFkXQogICAgICBzZXRSZWFkTm90aWZpY2F0aW9ucyhyZWFkTm90aWZpY2F0aW9ucykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0LGRkCg==</text>
+        <text encoding="base64">CQkJCXJldHVybiBhd2FpdCBHZXROb3RpZmljYXRpb25Db3VudChhY2NvdW50R3VpZCwgTm90aWZpY2F0aW9uUmVhZFN0YXR1cy5SZWFkKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQuZXJyb3IoIlNvcnJ5LiBXZSBjb3VsZG4ndCBjaGVjayB5b3VyIG5vdGlmaWNhdGlvbnMgYXQgdGhpcyB0aW1lLiIpCg==</text>
+        <text encoding="base64">CQkJCXJldHVybiBHZXROb3RpZmljYXRpb25Db3VudChhY2NvdW50R3VpZCwgTm90aWZpY2F0aW9uUmVhZFN0YXR1cy5SZWFkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEVycm9yKCdidWJibGUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxUZXh0IGNvbG9yPSJwcmltYXJ5Ij5DbGVhciBBbGw8L1RleHQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFyZXMub2spIHsKICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ2J1YmJsZScpCiAgICAgIH0K</text>
+        <text encoding="base64">ICB3aXRoUmVhZEZldGNoSGFuZGxlcnMsCiAgd2l0aFVucmVhZEZldGNoSGFuZGxlcnMsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%sort</text>
+        <text>26</text>
       </register>
     </registers>
     <search>
@@ -221,7 +223,6 @@
         <entry>right</entry>
       </history-search>
       <history-cmd>
-        <entry>6</entry>
         <entry>%s/verify-email/email-verify/g</entry>
         <entry>19</entry>
         <entry>13</entry>
@@ -241,6 +242,7 @@
         <entry>9</entry>
         <entry>%sort</entry>
         <entry encoding="base64">JzwsJz5CICFzb3J0</entry>
+        <entry>26</entry>
       </history-cmd>
       <history-expr />
       <history-input />
