@@ -4,8 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/feed-content/feed-content-service.js" timestamp="1540408930805">
-        <mark key="'" line="50" column="36" />
-        <mark key="[" line="50" column="36" />
         <mark key="]" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
@@ -15,7 +13,6 @@
         <mark key="." line="31" column="23" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/search-content/search-content-service.js" timestamp="1540408816031">
-        <mark key="[" line="43" column="37" />
         <mark key="]" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
@@ -33,22 +30,10 @@
         <mark key="^" line="27" column="52" />
         <mark key="." line="27" column="52" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/email-verify/email-verify.js" timestamp="1540310395402">
-        <mark key="'" line="12" column="23" />
-        <mark key="[" line="50" column="47" />
-        <mark key="]" line="50" column="47" />
-        <mark key="." line="50" column="47" />
-      </file>
-      <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/mobile-search-banner/mobile-search-banner-service.js" timestamp="1540408658181">
-        <mark key="[" line="44" column="42" />
-        <mark key="]" line="47" column="3" />
-        <mark key="." line="47" column="3" />
-        <mark key="^" line="47" column="3" />
-      </file>
       <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/cms-content/cms-content-service.js" timestamp="1540409331210">
-        <mark key="[" line="146" column="6" />
-        <mark key="]" line="146" column="6" />
-        <mark key="." line="146" column="6" />
+        <mark key="[" line="142" column="6" />
+        <mark key="]" line="142" column="6" />
+        <mark key="." line="142" column="6" />
       </file>
       <file name="$USER_HOME$/webstormProjects/challenges/home-row-spell-check/tom/src/main.rs" timestamp="1540428233695">
         <mark key="[" line="9" column="12" />
@@ -64,12 +49,10 @@
         <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/notification-blast/notification-blast-service.js" timestamp="1540408760816">
-        <mark key="[" line="16" column="23" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/mobile-feed-content/mobile-feed-content-service.js" timestamp="1540408668520">
-        <mark key="[" line="90" column="42" />
         <mark key="]" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
@@ -88,12 +71,6 @@
         <mark key="]" line="686" column="0" />
         <mark key="." line="686" column="0" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/banner/banner.test.js" timestamp="1540253990490">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="17" column="8" />
-        <mark key="." line="17" column="8" />
-      </file>
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/components/notification-dropdown/notification-dropdown.js" timestamp="1540841755631">
         <mark key="[" line="154" column="0" />
         <mark key="]" line="154" column="0" />
@@ -106,7 +83,6 @@
         <mark key="." line="3" column="25" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/mobile-banner/mobile-banner-service.js" timestamp="1540408889719">
-        <mark key="[" line="29" column="74" />
         <mark key="]" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
