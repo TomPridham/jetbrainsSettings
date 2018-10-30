@@ -56,11 +56,11 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/notifications.test.js" timestamp="1540912774764">
-        <mark key="[" line="10" column="36" />
-        <mark key="]" line="11" column="19" />
-        <mark key="." line="11" column="19" />
-        <mark key="^" line="11" column="19" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/notifications.test.js" timestamp="1540913827066">
+        <mark key="[" line="9" column="37" />
+        <mark key="]" line="9" column="37" />
+        <mark key="^" line="9" column="53" />
+        <mark key="." line="9" column="37" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/mobile-feed-content/mobile-feed-content-service.js" timestamp="1540408668520">
         <mark key="]" line="2" column="26" />
@@ -154,13 +154,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Comp.props()</text>
+        <text encoding="base64">PFRlc3RDb21wb25lbnQgLz4=</text>
       </register>
       <register name="e" type="4">
         <text>Default (http://localhost:8080/graphql)</text>
       </register>
       <register name="-" type="4">
-        <text>Comp.props()</text>
+        <text encoding="base64">PFRlc3RDb21wb25lbnQgLz4=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">KCkgPT4=</text>
