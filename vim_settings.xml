@@ -56,10 +56,11 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/notifications.test.js" timestamp="1540870278930">
-        <mark key="[" line="2" column="64" />
-        <mark key="]" line="2" column="64" />
-        <mark key="." line="2" column="64" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/notifications.test.js" timestamp="1540912774764">
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+        <mark key="^" line="11" column="19" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/mobile-feed-content/mobile-feed-content-service.js" timestamp="1540408668520">
         <mark key="]" line="2" column="26" />
@@ -153,13 +154,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>Comp.props()</text>
       </register>
       <register name="e" type="4">
         <text>Default (http://localhost:8080/graphql)</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>Comp.props()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">KCkgPT4=</text>
