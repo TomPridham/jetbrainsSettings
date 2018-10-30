@@ -32,9 +32,12 @@
         <mark key="[" line="2" column="21" />
         <mark key="]" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/components/notification-dropdown/notification-dropdown.test.js" timestamp="1540867006646">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="4" column="65" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/notifications.handlers.js" timestamp="1540929559138">
+        <mark key="[" line="24" column="27" />
+      </file>
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/components/notification-dropdown/notification-dropdown.test.js" timestamp="1540928499180">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="39" column="1" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
@@ -60,10 +63,11 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/notifications.test.js" timestamp="1540928261037">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="8" column="3" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/notifications.test.js" timestamp="1540929320680">
+        <mark key="[" line="58" column="35" />
+        <mark key="]" line="58" column="51" />
+        <mark key="." line="58" column="51" />
+        <mark key="^" line="58" column="51" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/mobile-feed-content/mobile-feed-content-service.js" timestamp="1540408668520">
         <mark key="]" line="2" column="26" />
@@ -84,9 +88,9 @@
         <mark key="]" line="686" column="0" />
         <mark key="." line="686" column="0" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/components/notification-card/notification-card.test.js" timestamp="1540865249028">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="10" column="35" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/components/notification-card/notification-card.test.js" timestamp="1540928610114">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="36" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/components/notification-dropdown/notification-dropdown.js" timestamp="1540849211697">
         <mark key="[" line="154" column="0" />
@@ -113,8 +117,8 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/notifications.types.js" timestamp="1540865353973">
-        <mark key="[" line="13" column="12" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/notifications.types.js" timestamp="1540928573751">
+        <mark key="[" line="5" column="0" />
         <mark key="]" line="13" column="17" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="5" column="0" />
@@ -157,49 +161,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">amVzdC5tb2NrKCdAamFuZWNvcnAvamFuZS13ZWItY2xpZW50JywgKCkgPT4gKHsKICBwb3N0SnNvbjogamVzdC5mbigpLAp9KSk=</text>
+        <text>props</text>
       </register>
       <register name="e" type="4">
         <text>Default (http://localhost:8080/graphql)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2l0aENsZWFyQWxsKChwcm9wcyk9PiA8SnVua3suLi5wcm9wc30+PC9KdW5rPik=</text>
+        <text>props</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">KCkgPT4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">amVzdC5tb2NrKCdAamFuZWNvcnAvamFuZS13ZWItY2xpZW50JywgKCkgPT4gKHsKICBwb3N0SnNvbjogamVzdC5mbigpLAp9KSk=</text>
+        <text>updateUnreadTotalCount</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHdpdGhUaGVtZSBmcm9tICd3ZWIvdGVzdGluZy93aXRoLXRoZW1lJwo=</text>
+        <text encoding="base64">ICByZWFkQXQ/OiAsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGMgPSBDb21wLnByb3BzKCkuY2xlYXJBbGwK</text>
+        <text encoding="base64">aW1wb3J0IHdpdGhUaGVtZSBmcm9tICd3ZWIvdGVzdGluZy93aXRoLXRoZW1lJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3QpCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGMgPSBDb21wLnByb3BzKCkuY2xlYXJBbGwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHttb3VudH0gZnJvbSAnZW56eW1lJwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3QpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IHttb3VudH0gZnJvbSAnZW56eW1lJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhZnRlckVhY2goY2xlYW51cCkK</text>
+        <text encoding="base64">aW1wb3J0IHttb3VudH0gZnJvbSAnZW56eW1lJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2ltdWxhdGUsIHJlbmRlciwgY2xlYW51cCB9IGZyb20gJ3JlYWN0LXRlc3RpbmctbGlicmFyeScK</text>
+        <text encoding="base64">ICBhZnRlckVhY2goY2xlYW51cCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHdyYXBwZXIgPSByZW5kZXIoQ29tcCkK</text>
+        <text encoding="base64">aW1wb3J0IHsgU2ltdWxhdGUsIHJlbmRlciwgY2xlYW51cCB9IGZyb20gJ3JlYWN0LXRlc3RpbmctbGlicmFyeScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IENvbm5lY3RlZE5vdGlmaWNhdGlvbkRyb3Bkb3duIGZyb20gJy4vbm90aWZpY2F0aW9uLWRyb3Bkb3duJwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHdyYXBwZXIgPSByZW5kZXIoQ29tcCkK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz4hc29ydA==</text>
+        <text>25</text>
       </register>
     </registers>
     <search>
@@ -231,7 +235,6 @@
         <entry encoding="base64">KCkgPT4=</entry>
       </history-search>
       <history-cmd>
-        <entry>!0</entry>
         <entry>10</entry>
         <entry>%s/isLoggedIn/verifiedEmail/g</entry>
         <entry>%s/email/emailTrimmed/g</entry>
@@ -251,6 +254,7 @@
         <entry>%s/ = /:/g</entry>
         <entry encoding="base64">JXMvKCkgPT4vKCk6IHZvaWQgPT4vZw==</entry>
         <entry encoding="base64">JzwsJz4hc29ydA==</entry>
+        <entry>25</entry>
       </history-cmd>
       <history-expr />
       <history-input />
