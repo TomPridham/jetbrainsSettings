@@ -34,11 +34,11 @@
         <mark key="^" line="27" column="52" />
         <mark key="." line="27" column="52" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/components/notification-dropdown/notification-dropdown.test.js" timestamp="1540850389696">
-        <mark key="[" line="7" column="32" />
-        <mark key="]" line="7" column="32" />
-        <mark key="." line="7" column="32" />
-        <mark key="^" line="15" column="34" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/components/notification-dropdown/notification-dropdown.test.js" timestamp="1540865283632">
+        <mark key="[" line="55" column="51" />
+        <mark key="]" line="55" column="51" />
+        <mark key="." line="55" column="51" />
+        <mark key="^" line="54" column="20" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/cms-content/cms-content-service.js" timestamp="1540409331210">
         <mark key="[" line="142" column="6" />
@@ -81,6 +81,10 @@
         <mark key="]" line="686" column="0" />
         <mark key="." line="686" column="0" />
       </file>
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/components/notification-card/notification-card.test.js" timestamp="1540865249028">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="35" />
+      </file>
       <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/components/notification-dropdown/notification-dropdown.js" timestamp="1540849211697">
         <mark key="[" line="154" column="0" />
         <mark key="]" line="154" column="0" />
@@ -106,11 +110,11 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/notifications.types.js" timestamp="1540849386794">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="30" column="35" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/notifications.types.js" timestamp="1540865353973">
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -149,52 +153,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d: 'as' }]</text>
       </register>
       <register name="e" type="4">
         <text>Default (http://localhost:8080/graphql)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d: 'as' }]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">KCkgPT4=</text>
       </register>
       <register name="0" type="4">
-        <text>{
-  text: string,
-  linkText?: string,
-  to?: string,
-  backgroundColor?: string,
-  openNewWindow?: boolean,
-}</text>
+        <text>2018-04-24T15:23:31.519Z</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHR5cGUgeyBOb3RpZmljYXRpb25Qcm9wcyB9IGZyb20gJy4uLy4uL25vdGlmaWNhdGlvbnMudHlwZXMnCg==</text>
+        <text encoding="base64">ICByZWFkQXQ6ID9zdHJpbmcsZGRkZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgZGVmYXVsdFByb3BzID0gKG92ZXJyaWRlcyk6ICA9PiAoewogIGFsZXJ0OiB7IGVycm9yOiBqZXN0LmZuKCksIHN1Y2Nlc3M6IGplc3QuZm4oKSB9LAo=</text>
+        <text encoding="base64">ICBub3RpZmljYXRpb25UeXBlOiBzdHJpbmcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgZGVmYXVsdFByb3BzID0gKG92ZXJyaWRlcyk6ICA9PiAoewo=</text>
+        <text encoding="base64">ICAgIDogc3RyaW5nLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZWFkRmV0Y2hlZFBhZ2U6IDAsZDRkCiAgdW5yZWFkRmV0Y2hlZFBhZ2U6IDAsCiAgc2V0UmVhZEZldGNoZWRQYWdlOiBqZXN0LmZuKCksCiAgc2V0VW5yZWFkRmV0Y2hlZFBhZ2U6IGplc3QuZm4oKSwK</text>
+        <text encoding="base64">ICAgIGNvbW1lbnRUaHJlYWRUb2tlbjogc3RyaW5nLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzZXRVbnJlYWRGZXRjaGVkUGFnZTogKG51bWJlcikgPT4gdm9pZCwK</text>
+        <text encoding="base64">ICAgIGNvbW1lbnRBdXRob3JOYW1lOiBzdHJpbmcsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB1bnJlYWRGZXRjaGVkUGFnZTogbnVtYmVyLAo=</text>
+        <text encoding="base64">ICAgIGNvbW1lbnRBdXRob3JHdWlkOiBzdHJpbmcsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzZXRSZWFkRmV0Y2hlZFBhZ2U6IChudW1iZXIpID0+IHZvaWQsCg==</text>
+        <text encoding="base64">ICBtb2RpZmllZDogc3RyaW5nLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZWFkRmV0Y2hlZFBhZ2U6IG51bWJlciwK</text>
+        <text encoding="base64">ICBkZWxldGVkOiBib29sZWFuLAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBiYW5uZXI6Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICBhY2NvdW50R3VpZDogc3RyaW5nLAogIGNyZWF0ZWQ6IHN0cmluZywKICBkZWxldGVkOiBib29sZWFuLAogIGlkOiBudW1iZXIsCiAgbW9kaWZpZWQ6IHN0cmluZywKICBub3RpZmljYXRpb25EYXRhOiB7CiAgICBjb21tZW50QXV0aG9yR3VpZDogc3RyaW5nLAogICAgY29tbWVudEF1dGhvck5hbWU6IHN0cmluZywKICAgIGNvbW1lbnRUaHJlYWRUb2tlbjogc3RyaW5nLAogICAgY29tbWVudFRva2VuOiBzdHJpbmcsCiAgICBkZWFsSWQ6IG51bWJlciwKICAgIGRlYWxHdWlkOiBzdHJpbmcsCiAgfSwKICBub3RpZmljYXRpb25UZXh0OiBzdHJpbmcsCiAgbm90aWZpY2F0aW9uVHlwZTogc3RyaW5nLAogIHJlYWRBdDogP3N0cmluZyw=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4hc29ydA==</text>
