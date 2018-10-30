@@ -12,6 +12,10 @@
         <mark key="]" line="31" column="23" />
         <mark key="." line="31" column="23" />
       </file>
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/seller/scenes/business-info/business-info.test.js" timestamp="1540928252300">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="79" column="2" />
+      </file>
       <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/search-content/search-content-service.js" timestamp="1540408816031">
         <mark key="]" line="2" column="26" />
         <mark key="." line="2" column="26" />
@@ -56,10 +60,10 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/notifications.test.js" timestamp="1540919201592">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/notifications.test.js" timestamp="1540928261037">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="8" column="3" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/webstormProjects/jane-masada-web/src/components/mobile-feed-content/mobile-feed-content-service.js" timestamp="1540408668520">
         <mark key="]" line="2" column="26" />
@@ -152,8 +156,8 @@
       <jump line="23" column="1" filename="$USER_HOME$/webstormProjects/jane-seller/src/web/navigation/components/notifications/notifications.handlers.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGMgPSBDb21wLnByb3BzKCkuY2xlYXJBbGwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">amVzdC5tb2NrKCdAamFuZWNvcnAvamFuZS13ZWItY2xpZW50JywgKCkgPT4gKHsKICBwb3N0SnNvbjogamVzdC5mbigpLAp9KSk=</text>
       </register>
       <register name="e" type="4">
         <text>Default (http://localhost:8080/graphql)</text>
@@ -164,35 +168,35 @@
       <register name="/" type="4">
         <text encoding="base64">KCkgPT4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAncmVhY3QnCmltcG9ydCBDb25uZWN0ZWROb3RpZmljYXRpb25Ecm9wZG93biBmcm9tICcuL25vdGlmaWNhdGlvbi1kcm9wZG93bicKaW1wb3J0IHsgU2ltdWxhdGUsIHJlbmRlciwgY2xlYW51cCB9IGZyb20gJ3JlYWN0LXRlc3RpbmctbGlicmFyeScK</text>
+      <register name="0" type="4">
+        <text encoding="base64">amVzdC5tb2NrKCdAamFuZWNvcnAvamFuZS13ZWItY2xpZW50JywgKCkgPT4gKHsKICBwb3N0SnNvbjogamVzdC5mbigpLAp9KSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGMgPSBDb21wLnByb3BzKCkuY2xlYXJBbGwK</text>
+        <text encoding="base64">aW1wb3J0IHdpdGhUaGVtZSBmcm9tICd3ZWIvdGVzdGluZy93aXRoLXRoZW1lJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3QpCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGMgPSBDb21wLnByb3BzKCkuY2xlYXJBbGwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHttb3VudH0gZnJvbSAnZW56eW1lJwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3QpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IHttb3VudH0gZnJvbSAnZW56eW1lJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhZnRlckVhY2goY2xlYW51cCkK</text>
+        <text encoding="base64">aW1wb3J0IHttb3VudH0gZnJvbSAnZW56eW1lJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2ltdWxhdGUsIHJlbmRlciwgY2xlYW51cCB9IGZyb20gJ3JlYWN0LXRlc3RpbmctbGlicmFyeScK</text>
+        <text encoding="base64">ICBhZnRlckVhY2goY2xlYW51cCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHdyYXBwZXIgPSByZW5kZXIoQ29tcCkK</text>
+        <text encoding="base64">aW1wb3J0IHsgU2ltdWxhdGUsIHJlbmRlciwgY2xlYW51cCB9IGZyb20gJ3JlYWN0LXRlc3RpbmctbGlicmFyeScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IENvbm5lY3RlZE5vdGlmaWNhdGlvbkRyb3Bkb3duIGZyb20gJy4vbm90aWZpY2F0aW9uLWRyb3Bkb3duJwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHdyYXBwZXIgPSByZW5kZXIoQ29tcCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAncmVhY3QnCmltcG9ydCBDb25uZWN0ZWROb3RpZmljYXRpb25Ecm9wZG93biBmcm9tICcuL25vdGlmaWNhdGlvbi1kcm9wZG93bicKaW1wb3J0IHsgU2ltdWxhdGUsIHJlbmRlciwgY2xlYW51cCB9IGZyb20gJ3JlYWN0LXRlc3RpbmctbGlicmFyeScK</text>
+        <text encoding="base64">aW1wb3J0IENvbm5lY3RlZE5vdGlmaWNhdGlvbkRyb3Bkb3duIGZyb20gJy4vbm90aWZpY2F0aW9uLWRyb3Bkb3duJwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4hc29ydA==</text>
